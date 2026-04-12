@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\Player Movement.cs" />
+    <Compile Include="Assets\Scripts\Scenes\Transition.cs" />
+    <Compile Include="Assets\Scripts\Scenes\Scene_Loader.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
