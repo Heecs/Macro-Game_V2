@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic; 
 
 public class Scene_Loader : MonoBehaviour
 {
@@ -8,7 +9,9 @@ public class Scene_Loader : MonoBehaviour
 
     private InputAction _transitionInput;
 
-    public string sceneToLoad;
+    public List<string> sceneNames; // List of scene names to load
+
+    public int sceneToLoad;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -29,6 +32,6 @@ public class Scene_Loader : MonoBehaviour
     }
     public void LoadNextScene()
     {
-        SceneManager.LoadScene(sceneToLoad);
+        SceneManager.LoadScene(sceneNames[sceneToLoad]);
     }
 }

@@ -372,4 +372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scene_Loader
   transitionAnimator: {fileID: 6856989038450239343}
+  sceneNames:
+  - Test_Scene_1
+  - Test_Scene_2
   sceneToLoad: Test_Scene_2
