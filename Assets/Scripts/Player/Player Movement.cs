@@ -7,14 +7,17 @@ public class PlayerMovement : MonoBehaviour
     [Header("Player Settings")]
     public GameObject playerCharacter;
     public float movementSpeed = 5f;
-    private GameObject _player;
+    public Vector3 offset;
+
+    private GameObject _playerCamera;
 
     private InputAction _movementInput;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        _player = GameObject.FindWithTag("Player");
+        playerCharacter = GameObject.FindWithTag("PlayerCharacter");
         _movementInput = InputSystem.actions.FindAction("Move");
+        _playerCamera = GameObject.FindWithTag("MainCamera");
     }
 
     // Update is called once per frame
@@ -30,7 +33,8 @@ public class PlayerMovement : MonoBehaviour
         {
             Vector3 move = new Vector3(movementVector.x, 0, movementVector.y) * movementSpeed * Time.deltaTime;
             playerCharacter.transform.forward = move;
-            _player.transform.Translate(move, Space.World);
+            playerCharacter.transform.Translate(move, Space.World);
+            _playerCamera.transform.position = playerCharacter.transform.position + offset;
         }
     }
 }

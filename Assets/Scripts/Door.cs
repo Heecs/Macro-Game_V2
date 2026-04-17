@@ -8,6 +8,8 @@ public class Door : MonoBehaviour
 
     public Card playerCard;
 
+    public Collider playerCO;
+
     public int requiredPlayerCardIndex;
     public int sceneToLoadIndex;
 
