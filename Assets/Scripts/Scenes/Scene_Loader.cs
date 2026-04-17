@@ -1,34 +1,36 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
-using System.Collections.Generic; 
+using System.Collections.Generic;
+using Unity.VisualScripting.Antlr3.Runtime.Tree;
 
 public class Scene_Loader : MonoBehaviour
 {
-    public Animator transitionAnimator;
 
-    private InputAction _transitionInput;
+    public Animator transitionAnimator; // The Animator assigned to the scene transition animation
 
-    public List<string> sceneNames; // List of scene names to load
+
+
+    public List<string> sceneNames; // List of Scenes the Scene Loader can access.
+
 
     public int sceneToLoad;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        _transitionInput = InputSystem.actions.FindAction("Interact");
+
     }
 
     void Update()
     {
-        if (_transitionInput.WasPressedThisFrame())
-        {
-            OnInteract();
-        }
+
     }
 
-    public void OnInteract()
+    public void StartTransition()
     {
-        transitionAnimator.SetTrigger("Start_Transition");
+            transitionAnimator.SetTrigger("Start_Transition");
     }
     public void LoadNextScene()
     {

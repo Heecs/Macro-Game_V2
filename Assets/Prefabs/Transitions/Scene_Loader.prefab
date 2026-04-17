@@ -338,7 +338,7 @@ GameObject:
   - component: {fileID: 5368984023694686427}
   m_Layer: 0
   m_Name: Scene_Loader
-  m_TagString: Untagged
+  m_TagString: SceneLoader
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -375,4 +375,6 @@ MonoBehaviour:
   sceneNames:
   - Test_Scene_1
   - Test_Scene_2
-  sceneToLoad: Test_Scene_2
+  playerCard: {fileID: 0}
+  sceneToLoad: 0
+  requiredPlayerCardIndex: 0
