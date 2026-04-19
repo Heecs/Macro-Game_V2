@@ -375,6 +375,5 @@ MonoBehaviour:
   sceneNames:
   - Test_Scene_1
   - Test_Scene_2
-  playerCard: {fileID: 0}
+  - 6_Floor
   sceneToLoad: 0
-  requiredPlayerCardIndex: 0

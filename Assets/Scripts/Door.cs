@@ -22,6 +22,7 @@ public class Door : MonoBehaviour
         _transitionInput = InputSystem.actions.FindAction("Interact");
         playerCard = GameObject.FindWithTag("Player").GetComponent<Card>();
         sceneLoader = GameObject.FindWithTag("SceneLoader").GetComponent<Scene_Loader>();
+        playerCO = GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>();
     }
 
     // Update is called once per frame

@@ -853,7 +853,7 @@ PrefabInstance:
       objectReference: {fileID: 1404562740}
     - target: {fileID: 8859157226268239932, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
       propertyPath: requiredPlayerCardIndex
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
