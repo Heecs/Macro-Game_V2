@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
         playerCharacter = GameObject.FindWithTag("PlayerCharacter");
         _movementInput = InputSystem.actions.FindAction("Move");
         _playerCamera = GameObject.FindWithTag("MainCamera");
+
+        _playerCamera.transform.position = playerCharacter.transform.position + offset;
     }
 
     // Update is called once per frame

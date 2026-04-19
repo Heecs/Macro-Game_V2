@@ -499,6 +499,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4418411729252528311, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4418411729252528311, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657613908041608980, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: offset.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657613908041608980, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: offset.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7565059783452004942, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7565059783452004942, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7565059783452004942, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10
+      objectReference: {fileID: 0}
     - target: {fileID: 8918800884524618076, guid: b55632e186f23134eaa2880d94ec644f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.45488
@@ -823,6 +851,10 @@ PrefabInstance:
       propertyPath: playerCO
       value: 
       objectReference: {fileID: 1404562740}
+    - target: {fileID: 8859157226268239932, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+      propertyPath: requiredPlayerCardIndex
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
