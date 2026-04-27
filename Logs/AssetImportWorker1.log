@@ -268,3 +268,27 @@ Received Import Request.
 Start importing Assets/Scenes/1_Entrance/Lightmap-0_comp_dir.png using Guid(c00ec43b6482ee54cb78462efffe6e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9e1d43ea736d4430068f17143b794bb4') in 0.2001492 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0ad9aac61ed9891bce613e8a769e4817 DependenciesID=52d735d5d14217330033afa747643d90 StaticDependenciesID=ffd02a355043180294aea43b8a5c1aa4 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 7331.348034 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4a31a1ddaaa1dba3ff2051d02838b216') in 0.0571966 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=abaab3bac34bed781296e221492b99c8 DependenciesID=b8a55cc6270e1a38eb8a5136a321c8da StaticDependenciesID=6db046c82469b7c14fff39fb87bf4dc5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.865628 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '053cbc9ff35cd4643fb9854a0b42cc0d') in 0.0213409 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4614fc5959706efb8289097538d64aee DependenciesID=267651926fd13af663c6a3c86470b06f StaticDependenciesID=d20509f0241947f9e0f3c06eb265bf95 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 320.366785 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8b2a4485b59c22e2606aabe0c8bb8443') in 0.0173038 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ae0d3b6d5c73ea49c0e0904b54edf261 DependenciesID=9b286ad02f1e05f69b0c728a50a699a7 StaticDependenciesID=623def28cd45621511483c5187d78698 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
