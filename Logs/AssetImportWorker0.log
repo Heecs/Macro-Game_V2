@@ -579,3 +579,1019 @@ Received Import Request.
 Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3f15dc1b292c554ee0f8c4fd4a73e54a') in 0.0165724 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f5d57654fbc5718f7c8e9200b8d95908 DependenciesID=efc5246079ec420c8f7746cb99be407c StaticDependenciesID=65191e9a7e844e48ee2e55cea6e0f530 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 176.260127 seconds.
+  path: Assets/Scenes/1_Entrance
+  importAddress: Guid(d0cdd749d4b46be49bd3f1d287fc07fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance using Guid(d0cdd749d4b46be49bd3f1d287fc07fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '99ad07ffea8c9a283aa03e4a16866889') in 0.0006374 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5838c4865a5e1ab10e71a2dd83007b69 DependenciesID=dae371079615b244d77e7a515314fb11 StaticDependenciesID=867395a4d43b3146295ee5de6e72e4cc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.993087 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '649f5091e32c6059a98a3fda37d95617') in 0.0127909 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b50be4da6a28ddd49a95b450d000cddc DependenciesID=e043de45531a373e876a15cfce9fac1d StaticDependenciesID=746ceccf8e4bd217ce552b92bbc860a4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.041206 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1a783f53f5f087427863dc2124c710da') in 0.0082339 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2283432ebe7b85b55c289a4dbd3bc0c3 DependenciesID=6ebe93ff6d43ccdcfcd0423165868816 StaticDependenciesID=568cce8648a8e7c791328929b8095f33 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 981.178019 seconds.
+  path: Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx
+  importAddress: Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx using Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f9a8a62f0a1601b50386d13efb75a5cc') in 0.3422108 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bfe2677d2391a9211fa00cb35327376b DependenciesID=acf4de6dd6c6ab7c719e7ba15a7fc072 StaticDependenciesID=54f076374dd701be34be90da469c9094 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.629709 seconds.
+  path: Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx
+  importAddress: Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx using Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '01a39ba22bcd706c051cca99be826c0c') in 0.065508 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=051a9e11be4e6d76768b6a330036c208 DependenciesID=5e5704a049d3d4987b8a4627f57c59d6 StaticDependenciesID=d9e6bf314aa12d65e23b4f7c692ffe6b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.572689 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8f63ddec4529caeba20d7790be46a15b') in 0.0137531 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7615bc604b9c9d24fea871650bd31a72 DependenciesID=d1cd35721d0948ef3edd346f47c03dde StaticDependenciesID=ff1d7a33350e79a28b10c2b7fe8581b1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.918433 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '207a99a0337edbe149a5a7c99777002e') in 0.0092355 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a919d9a788787f36ecadff23362f16cf DependenciesID=76fa2505df31b59b8e6b591af7b8fbff StaticDependenciesID=9192278cfc72acff2c25e244c98077d9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 356.531819 seconds.
+  path: Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx
+  importAddress: Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx using Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '927dee38de39c215502613ea063459a2') in 0.5780848 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bfe2677d2391a9211fa00cb35327376b DependenciesID=8c25ab964cb66bbe023220cfaaff61b4 StaticDependenciesID=8a230d2672cb06b1d486c5f8227eb82f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.376011 seconds.
+  path: Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx
+  importAddress: Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Scene_1_EntranceFloor.fbx using Guid(8a2950f20aa6b0142aa99fb4e50ed0ac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'affb3387f877058162e06ebb084e6ca5') in 0.0284468 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d87a5977346dee65d8651606f501521c DependenciesID=00a0ad1e88e389dc45ebe01734f28ee5 StaticDependenciesID=9d30a4a24cb47afdfbbaf8f6ceae3d36 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.033581 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1a4ebb11fc5e3d4d303200fcf566517f') in 0.000632 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c1afc278c390b62f897c4135360d0bc DependenciesID=b3149b5816428fa89b3ce1957cd8886c StaticDependenciesID=58be37e48b7b45fae01d317bae6e98b9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.444058 seconds.
+  path: Assets/Scenes/1_Entrance 1.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance 1.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9f0c9b771ef31a4ed2e7c4e65b3cb263') in 0.001398 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bdce6002afb80c42a5808035eac5c3 DependenciesID=c07b4862fe2c1cf587c9fc8c61a873d9 StaticDependenciesID=119d5c86128faeab570ee50f0a09cd5b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.935685 seconds.
+  path: Assets/Scenes/1_Entrance 1.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance 1.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e11ebb8c4fb3fd7afdaff515f9823541') in 0.0112917 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a5156fe515c252b52746da651681812 DependenciesID=8fc3a8af3d855c06784ddb3ef5c45ce0 StaticDependenciesID=184ad2cfec07532c5a1601355c87dbfd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.205617 seconds.
+  path: Assets/Scenes/1_Entrance 1.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance 1.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7a2e61c2af6503da53a65ec42ef5cad0') in 0.0079764 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=54b2bde45bac5486c2fd9f0d58fcdae5 DependenciesID=5e0d6e720f426f3977f482f5accc8fc4 StaticDependenciesID=ce95a902c3232a6f788959ca86454c48 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.905041 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'aacd050632cb8a713b3a66e785008e42') in 0.0146772 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d3700f03ba8147989a889fad7738359 DependenciesID=b3ba1e7ed2b7ce39ed79e5ccd82c187f StaticDependenciesID=51b02ebbc1b5536069a5cd29450a8673 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.443162 seconds.
+  path: Assets/Prefabs/Rooms/Scene_2+6_QuestFloor.fbx
+  importAddress: Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_2+6_QuestFloor.fbx using Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '338a5e23a1f5f8d5711f83b902b44d18') in 0.3566778 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=547ad3267f25f96828e1db7e8ace81dc DependenciesID=5e952656965060f59dd08bd8c8c0f77b StaticDependenciesID=67a08d594b1bdf0efacbb3f35e5ef23e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 114
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.605461 seconds.
+  path: Assets/Prefabs/Rooms/Scene_2+6_QuestFloor.fbx
+  importAddress: Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Scene_2+6_QuestFloor.fbx using Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bb68249b9398a37cf197c15a1428ab39') in 0.0269505 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=29a0b6f3bfc4565851654dd0bb5b0216 DependenciesID=5b0ce774777b64114d59f371017733cb StaticDependenciesID=466ef9851aabc8092b111617172fe09d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 114
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.426512 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '82250b02ee78d61316279f2fdcdfa841') in 0.0088789 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2073063102f79067507a43a9183eedf6 DependenciesID=7b12aa023e508aafdc0dcac1ea68654a StaticDependenciesID=751653290eb92f94fb53bf8739602e10 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.978251 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '05a7a67975b8303997bf7e01c9eafae3') in 0.0116116 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2df13645da7ea1d119ca04ede1884044 DependenciesID=0a101e32ee78b6105c0084cad6be3180 StaticDependenciesID=fcd6a663bfbf8a29e88da95de715b21a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.412118 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ae1a3e5542d3c19dabc1fc15add32be6') in 0.0124515 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32666eef73f72257445338081c4ba5b0 DependenciesID=3f2fb87cf2b17e8bad6724a66f834850 StaticDependenciesID=15a7da6aed2b09b776ec8fc293a2932d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 406.425776 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bb94b851b4d79cc7a7d8b8c7795dd064') in 0.0165998 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=89c4b50792109cf057c301f6e44fd995 DependenciesID=778e7fd7a87cffad1a9fbfe7b7ddf425 StaticDependenciesID=6a49fb9d65704d4a830ac0632ea8cf7c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 842.102645 seconds.
+  path: Assets/Prefabs/Rooms/Flur.fbx
+  importAddress: Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Flur.fbx using Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '53a151363ebea14f37e53dc4552bb69c') in 0.4337375 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=547ad3267f25f96828e1db7e8ace81dc DependenciesID=d5869dee9eb7bbdb28a34bb97cd98cb8 StaticDependenciesID=306075667f0b1c2dd69848bbc0f536f2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 114
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.514932 seconds.
+  path: Assets/Prefabs/Rooms/Flur.fbx
+  importAddress: Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Flur.fbx using Guid(355b1b5fb0c50fa48b5e3cbcd38f1d45) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '937e62a5c12f943ebe8d827741e354bf') in 0.0197575 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b81a4e072ad9bfb3b16dc00a3c54417 DependenciesID=218c2afadce1c51fcdb7b667350618df StaticDependenciesID=6deefeb11502df27a12d04fedf4a302a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 114
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.465255 seconds.
+  path: Assets/Scenes/2_.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/2_.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f43bbc4bfb3633aa6c593ecb98ce88bb') in 0.0007522 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bdce6002afb80c42a5808035eac5c3 DependenciesID=b1f73fb131f2ab7a3db3b281ccad6a6a StaticDependenciesID=c91f105c5b1c8bd71d426878bbbdecf1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.850805 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c6f2e85182f3e14924179c6b273d7920') in 0.0005425 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bdce6002afb80c42a5808035eac5c3 DependenciesID=c5369a7d30d19bc309e129c5bf9be300 StaticDependenciesID=2517cbec4eee64f02d4b8b8a0e5ea5ce 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959799 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '497816d992a7571c6a124d58d277a71c') in 0.0094766 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c33a02e29d549d89f5ead7c4f7292a47 DependenciesID=1252f20e0d01e79e35a62d09add45314 StaticDependenciesID=947a46fd96ad75a87b929b0144c61f9d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.221289 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4da0acbf393c92717b471eedc6d5c480') in 0.011298 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=45bfc6df2453b3f5c89aea1e7e4504ab DependenciesID=ad59edc6b4930d0402d54fd67cc5c3ef StaticDependenciesID=c4f3e7e760cd325533cb51206add0c80 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.667956 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cda3232971d658cf7ae117ffa1fc0290') in 0.0004951 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bdce6002afb80c42a5808035eac5c3 DependenciesID=c5bc0450ed834bdcbe9013dcd4c0f802 StaticDependenciesID=52ef8fe904eac436f1d4c810f396d02f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.809822 seconds.
+  path: Assets/Scenes/Flur 1.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Flur 1.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c8e553ecca237a4e4bc9c24bc1472404') in 0.0008061 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=2c6fe975aaa55535b55c6385d73022a2 StaticDependenciesID=8288280d1c00eeb5017c118b76c87ea9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.920853 seconds.
+  path: Assets/Scenes/Flur 1.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur 1.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f820cab4e57f91048e8cd7163a58a30c') in 0.0091574 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c6cf3e83c8366ef771cd4e5edc623064 DependenciesID=2aba6247e8f5355b61480d7b292309a8 StaticDependenciesID=4b1afe53dfaf968e629f339d3b62dba5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.889288 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4f1c80e51b36ce406f31b7b1970382ce') in 0.0006056 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=d89e64573433e6646e9d29b115d112d2 StaticDependenciesID=103ff555163becc6faca61a7ea27e384 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.958879 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '81d31d94a5157c057564fa3438228fce') in 0.0096814 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6170edc21b0faf6976b1cf1ea5d4e2cf DependenciesID=5f38cc530446b94ad8fac5c721ff8a2d StaticDependenciesID=db4efe0ff9f35e88d5ab12d60a974ecc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.127956 seconds.
+  path: Assets/Prefabs/Rooms/Scene_3_DesignRoom.fbx
+  importAddress: Guid(c5e573bab954627439b06da9cfcdefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_3_DesignRoom.fbx using Guid(c5e573bab954627439b06da9cfcdefdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '1a4e3b64ec51a539b953eee2a843bcd3') in 0.4019093 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1a6108df1ae20fe79b806e883e81c31f DependenciesID=4a9c61c6303cfd7222d11e8b62406655 StaticDependenciesID=a167104bc117a2a8610c0cdb0499b791 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 143
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591745 seconds.
+  path: Assets/Prefabs/Rooms/Scene_3_DesignRoom.fbx
+  importAddress: Guid(c5e573bab954627439b06da9cfcdefdd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Scene_3_DesignRoom.fbx using Guid(c5e573bab954627439b06da9cfcdefdd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '833360d23b1acc11a34bafc58fd6dd8d') in 0.0227204 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1262dd78de11c6248af4ac790e7c910a DependenciesID=613bfb670ae4ab83e8c6db20f4367721 StaticDependenciesID=f59e1aefdfd7997af5c7772d016d6900 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 143
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.130814 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '016517c8f2d448b73a4e5e8c233103a4') in 0.0120583 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=209e2d2ce7a34b82ff768e71220056bf DependenciesID=727918a53a7084b3a227ca282a6f1fd0 StaticDependenciesID=fa86cfda03cf80d82586631d0977c554 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.937067 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1901801bbc612fce5cf94ba5448abb66') in 0.0109721 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cace0f95a1033da8f120619325a4658f DependenciesID=d36baa897ebb4633a302ea0fc71d3444 StaticDependenciesID=d1d7bbb2eaded5afeffda4b10521338b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.545245 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ad0f82132bf388ff66a7fb0ca1a94d30') in 0.0102571 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=15ede8783f5844b339b47d579a074ff0 DependenciesID=81df88e0f2bf3ac160fbe68532996b31 StaticDependenciesID=f49e7bbe9e0b5c5013279616ffeb9dfd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.363456 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2ba1cdac9230a13ccd243c3cd928dceb') in 0.010892 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c595d3172e5f9e5abae58e2b249e8e7e DependenciesID=629848944c082b7928e9ea1b870db565 StaticDependenciesID=49d0d96ad0b67efab340242a99811ac4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.363423 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '41f09167ab696ed7cd65f780cd2dbba6') in 0.0004411 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=c107715b8e1592af8cb564d2233a8e6f StaticDependenciesID=bce9825d6f3544f55c72b61fc975495a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.357122 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7e2ba98bbc9b16fe9163e3601e3e60b2') in 0.0090491 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fe084ae1534fa98f4b54fb76d8c9ad22 DependenciesID=5c712e65d653bfcede4c9237d6f06073 StaticDependenciesID=6859a6afa552ab42d82c7c5d10ffc1a1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.312259 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '15be422ec441696554b4a04f3277085b') in 0.0107492 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4178192632479feb2f79a39fb88158cc DependenciesID=bfa43efb3d32c4f35ec7f35215e562c9 StaticDependenciesID=1e045e79837a5234e379dbd8672d1cc2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.280485 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '887142b55badb5386ccf97ca606fd6d2') in 0.0091798 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7c396351dcef4dc8c05a4cdb63cfc710 DependenciesID=aed697f9b2e9d31cd01a70de99fed4dc StaticDependenciesID=cd56167bf95b1c6421067e101b7db1c5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.462806 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4e4625a318d931218b454d3dc20e2130') in 0.00689 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7a2a51649ac36caaaa606a953c460bf8 DependenciesID=9ebe69d03d5250d46bc831707d9833a7 StaticDependenciesID=0829e30e4decc071fbad73c39a49635a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.194941 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ec1f606c141b11c876151730aa6011e6') in 0.0103617 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3600c7676933631c834614b86270334 DependenciesID=7f047d1cf1abbf10325b0a375faa4f6e StaticDependenciesID=e3febcfcb77da9f483b2af9ff6d0e008 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.321154 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'efd1351a1264c9c890fab471f3dad088') in 0.0068837 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3af88e9eb3c8edb8b1041f7f2a2f7c3e DependenciesID=2b33f8d5ee2d4ed2a6a2644d8350c988 StaticDependenciesID=bdfa38bac2e4b134c4968b46f96c2ae6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.687588 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a1697d37271507268f49fe72b513d8cd') in 0.0129437 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=72901101bee1aaa144539e082b1499d7 DependenciesID=c42b83505a06d38ed7fa3fcb6d1377c7 StaticDependenciesID=af2e1a122c163faa5ae70ef2ae2d1ffc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.633721 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '35052a8b88c879a3665d72ab37cc06f2') in 0.0122408 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b4292e9b0b99dc9f68a3860de00f7a73 DependenciesID=6c335466defdaa84c8812aa3ff69ef08 StaticDependenciesID=d1a0fb5ee3b98f1562560839dba413d8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.017378 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5a9e36db5a056299ee4372afabf18662') in 0.0099198 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8d0b60211ff34dd3b62d99db4e17f99b DependenciesID=3c1f8a24708930387b84b05ebefc5ccf StaticDependenciesID=90e9b8e3f2274ceadeb72e2282900027 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.923547 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '04033e54c39c3cc3a86e4061393afb5a') in 0.0123041 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=029c8b5d28ed92d4b94155d16cc12b00 DependenciesID=1ebd6be0087a7384bbe984c4b22157e9 StaticDependenciesID=ed03b62bf1c9e138c6b320bdee889f4c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.678058 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f2fa623265d98c1ccf737ecc230dea43') in 0.010463 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6b402e3515de1798511635c876e2322f DependenciesID=b8efda6f02da2b3d6d46f8f1422430b0 StaticDependenciesID=25d8748e04d3ba8640fb29b9c4377e81 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.689622 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e7eb06b8db894d052d5bd4cf3146d970') in 0.0007928 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=bf5c08d97ab6c78fa542cfa49ced0b0c StaticDependenciesID=c08f95aa9eb52b5bb85bb100af3b7586 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.187017 seconds.
+  path: Assets/Scenes/3_Design 1.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design 1.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e83e57c7c409f37a8008a50d8fd31d1d') in 0.000436 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5340aae96efdccf23c81ab036f39d9a DependenciesID=7727665aec9837ef14fd1cca45639060 StaticDependenciesID=92339aa09fcbbf55d0a66a43ab96b268 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.948210 seconds.
+  path: Assets/Scenes/3_Design 1.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design 1.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c38229df6e1fb113d448f4d3839df69a') in 0.0109636 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b59491cf73f8b761523fa389a9c03bd2 DependenciesID=0b4df098f54236d96edbfa2eb3642523 StaticDependenciesID=d8f020607511a5fa9ad32d236a05f074 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.676198 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f08df7088d1b84199337e8d854631c9b') in 0.0004353 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5340aae96efdccf23c81ab036f39d9a DependenciesID=f277bf873357f0d007995aa6df432b20 StaticDependenciesID=4dfa62ee851e19f59990ef0c06e8011e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.944848 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3978d338ea88f9fbb36d6fe2fd558ffe') in 0.0095195 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=08138c761b0183daecd0cf76d6c05be1 DependenciesID=6d62e321bfc9c82969bff525f22cfcc8 StaticDependenciesID=9c6aef92b4bc97f133912c3b854983de 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.807664 seconds.
+  path: Assets/Prefabs/Rooms/Scene_4_FilmRoom.fbx
+  importAddress: Guid(2bbdbd224cd8aac44af7dcd8240e314b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_4_FilmRoom.fbx using Guid(2bbdbd224cd8aac44af7dcd8240e314b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b8da0b6d2789f7544a08bb8b67a2085f') in 0.3655958 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ab53e07e94aa439e838e8ba0bf19e430 DependenciesID=3a99c4f2d806bd2c3b0e042114fc4ea5 StaticDependenciesID=73adcb60592af779a82ac95154a51dfb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 113
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.683211 seconds.
+  path: Assets/Prefabs/Rooms/Scene_4_FilmRoom.fbx
+  importAddress: Guid(2bbdbd224cd8aac44af7dcd8240e314b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Rooms/Scene_4_FilmRoom.fbx using Guid(2bbdbd224cd8aac44af7dcd8240e314b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c2f6691e8bae6e33499c3313979389ff') in 0.0248519 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=80014dd30b29a1de049da79d6804e1b4 DependenciesID=f52c092d0a8409acf65b3fc30b85495b StaticDependenciesID=edd9a122c3d14e93080cd0b6f4680ed8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 113
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.810257 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6bdc55484a86d7357d1b81f485f29c24') in 0.0093463 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3e868a40b3ee80a788af39a524585601 DependenciesID=5f1aeb00f6f9af564cc1cc2fea03ad6f StaticDependenciesID=bfc56a4133a4cf6ee428f8ae9749fb59 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.867819 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '36896ea7dd8c8caa884312e49444e955') in 0.0093433 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0b54d7a33263b0867c9d94cc6bcd87b5 DependenciesID=f6696fda50991939c50c8e1fae9de95b StaticDependenciesID=50481d2c564feb06701a21757d3f1aae 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.342387 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e5afdabb463d2e341551ce29a43e4a4e') in 0.0106793 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=65e58e73ab8901e6a82e000876ec1c11 DependenciesID=6c915aa5f7d1a09e096f29b0e61bc07a StaticDependenciesID=2711a0ed06a1a6ca416fe0b40f7f50f1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.120106 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'dde2dabea1ce62f9511868c21f2ec137') in 0.011417 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5a611d302d41ca54cd1331c6e706f6d3 DependenciesID=3f613fca05402fd1872fba1847940a99 StaticDependenciesID=639c4c74355c0fa223a56ab273936154 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.126575 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5aa19db14e432b84143fc951f0defe90') in 0.011183 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=92c01123dc73bcca6715f50440c54bbb DependenciesID=8ddf6196c6a5cee7fa16f0b7e69b3297 StaticDependenciesID=3c1cd787c7fdec50cc15dc950b79541e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.722984 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '736775ef12de60a47ab0d86d9049d517') in 0.009702 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=587f6a60d0a0a3dcb4f73f4a7db40dc3 DependenciesID=8210a415e54212edd5f85400ecdcb7c8 StaticDependenciesID=a372fc90d4c15ce57d62786a9c702edb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.138259 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a2604d43b5d7497208fd30728160f6f9') in 0.0130292 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d3e8b83e83408aa0b9c8c80cbe54847f DependenciesID=97f18185f69fd42f5b55a3249046958e StaticDependenciesID=932bddfa23d46ea60e3a7407187731ea 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.945474 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ba72e22551065337d6654552379e9a7c') in 0.0127567 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=39144e6cc68c6879036e8f68620eaa4c DependenciesID=8c79f7d6ad0fc615105df69f41e8043c StaticDependenciesID=8d628a6975a378e1d69f05cdf552d631 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.405775 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3bf4309167ad5e2379ccd90a544f2d89') in 0.0094984 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1cdfe87f6b2575229a26d2fca6ed2284 DependenciesID=148da669c61f5634b4ebb4691b7067a7 StaticDependenciesID=b2b67ea2239ca7ee84309961951f6ae1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.701005 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fbb38d80165e1b7e9736b01ff3ff528a') in 0.0120024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=be4064ef9e65c0f1237fe226568f540a DependenciesID=55a0a9e953b1223c6f4f72b9cd056a88 StaticDependenciesID=33656711da0f776e7a89ddc64bf8c5e5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.897842 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e3ad096645072e25246e2bda48b6684e') in 0.0127232 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=55eada211445e5387f75c30a9daf3b09 DependenciesID=adffd497d6a5f319f495f3aaf745249c StaticDependenciesID=ac5f2a9d0b59b8351b289b06e6c19cb5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.716071 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7e8d717f886b4057e3015f317925f6e8') in 0.0118557 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a07f3700fa6b5527e50644660f6cc8a DependenciesID=29ca8e7636b65c1689375b171dc919a8 StaticDependenciesID=2b224075adcba815443f9114bfcdc4c2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.063854 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '76958d124f1b43a3fe44ba9eb53add4f') in 0.0005985 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5340aae96efdccf23c81ab036f39d9a DependenciesID=5e103de8499f0b9cad81cbd2c976c5f2 StaticDependenciesID=4def540af92083499e84f58be253f839 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.691773 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '406757a0c2a4cede2279ce47f59ff42d') in 0.0109307 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3b9399555720d2f9b6b0ce3d807f2091 DependenciesID=2a624ab8fc9e136b4483a84a8a7039a5 StaticDependenciesID=54edb7fde13bf904fe03758da4aab957 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.162749 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c786cd8c76e1fd04888de3294cfca791') in 0.0139798 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d568e136be5567ef3576544a1701ec0e DependenciesID=ab601fce3b4fa9df9774d1cb45ad5a16 StaticDependenciesID=5fcdd4ac54dee8a02e8d909731f2caba 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.770423 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '38e9a3833b7ddcb871f113eff0c0a283') in 0.0005277 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c1afc278c390b62f897c4135360d0bc DependenciesID=749cc4d62436759e4ecc411b6958eb74 StaticDependenciesID=0f1459ce8e6712d5ac2916bb0ccf6d57 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.177120 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cfb11b7a8cadd0be9f777dea56f92ad3') in 0.0122708 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=794df3d831a79d3e585583df63ce894c DependenciesID=c861a20c56a86ca4babaa88cfd2fbd2a StaticDependenciesID=1435366bb06389072385755b77eadd7b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.580825 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b4986e63c2d3f598b4a4221b681f2afe') in 0.0120011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5df9e8e1da1b3bc4f6fe5e5546a6f9cc DependenciesID=ba9319ee56bcc33686b23ec5c74249f5 StaticDependenciesID=f283c36e5ffbb49d7d035e8aaf2d52d8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.864336 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b2864a13f8bf0052bcb161cb91fb7bc1') in 0.0116297 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e4e180da4f6c4f2487de78b851335e56 DependenciesID=1aca0a1f71de3c75c255230bb78fa8b2 StaticDependenciesID=5dd69054918d7cd5608ff706d224c31c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.418648 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '904065e24c50f7a72104e7ea3b01f91d') in 0.0133662 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aab53c225627cfaaaacfc2b5e34f1a76 DependenciesID=3197fd66d056bfacd72542a188e67cc1 StaticDependenciesID=26dc87a54655cb2e24d27bb87d8adccb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.242320 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '75535cb16a77c6b46c8aa16ddf01d5b6') in 0.0115636 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87341d212d73a36dc6ef27c380865602 DependenciesID=56b9594514b9f19abe7207f6e4ce7934 StaticDependenciesID=dfdf5c72b95d1ffd38bcc6641a291b0a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.142512 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1c89b135803bbbf2de1da08bbb740f09') in 0.0122141 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dd9bd02a19dbc4aeed930b7e65d54096 DependenciesID=17fb31071dc1106aaed9ffcffac7b1d2 StaticDependenciesID=95817c403ad6c90c582fa8c8a3dafc87 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.448508 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '42c6333f9b9f5ce6b54370eb4547b4be') in 0.0135943 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0c68caef09312e0d0341f95c7c5909f2 DependenciesID=9899a2b5b8116fea4d234202d6e84872 StaticDependenciesID=ff9bc12012539cd2c0b50bffea21141e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.859073 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '912ea99cb43858824c1c589118f65546') in 0.0004499 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=37ecc7d18b13e130adf66dd9bb6f45eb StaticDependenciesID=11ed363a9993ad0d8066f467ea19a110 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.207963 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a3a261497f21cbc04b37b59f50788245') in 0.0105552 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d0f7f56dad130cc20eb07942467131eb DependenciesID=c0f1d58032bd767bfdb8829fdcb943ac StaticDependenciesID=df3b3f6d7d5fcf042bf6623f0c87de17 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.902339 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e997756630337d974ea5e61d56f0e864') in 0.0004561 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c1afc278c390b62f897c4135360d0bc DependenciesID=a0eb1118b6e036c439d3f8ed64f4f7a7 StaticDependenciesID=5a95af4384f355ae22a0e4467ed28503 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.918009 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '72eea79131c00b631b99378bdd88a1cb') in 0.0083502 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e140c622e1e1ba68182f67c38d15b43b DependenciesID=8e1940a0b0ac0452f9d0ea8635da953a StaticDependenciesID=430d19d4dc0e48cdf25274aef219cb79 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.365493 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4098828c33b262823555d1f62353d8a2') in 0.009983 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7319ac4598f90f0adcedda2a93c2cdc6 DependenciesID=1169529a2595096606040f5242527dcc StaticDependenciesID=952020b716aec30cac1eeecf4dc5ecd6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.087731 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c798e07bd2a47f7630aea772bce475ad') in 0.0153068 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=05c6afb2a624f1383e7915424fa534dc DependenciesID=362a96a8a91f9ca896438b848a9f18c9 StaticDependenciesID=82744c76441adcafef0fcd7693f72524 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.300607 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6de9c69f4d7092c2c8eb7a6b3b9daf8c') in 0.013384 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32e56e11c4deb098a58321210771f9cf DependenciesID=2d3bcc63a530e9d4d82b95ccb51e5d82 StaticDependenciesID=138cba97f7aee8207b19ba1f61790c80 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.550199 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1708a072313436ec4925b4b637d3d6db') in 0.0170363 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a9639a23dd9e91c8ed29c35f46c0e344 DependenciesID=faa3d30c7dc00d989da0ebe6e8051e7a StaticDependenciesID=98cfbb3593bda40cf562d4879ed115f2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.468012 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9b7d0447fb2ad81850c7981ff0cafa25') in 0.0115302 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b12913370fe40731eef03bb8b2cee20c DependenciesID=ad39a04dd1da317f4b98cd5247ea3e36 StaticDependenciesID=e0fad4566c899dbec973ffa4a7d5f3e0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.671334 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f1c478b931e9c822a489f315a9769491') in 0.0077543 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=72981d68ab2345e5aa3558923b8d0b2e DependenciesID=21291ced98cfa90a42a9713168af14c2 StaticDependenciesID=1cb83292dbb6ac3a4b5b9b0a8853c5cf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.941946 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6f3b5c1c3438f28818dc83469fd61e08') in 0.0146092 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4d989681a61e8148f561dce29a9b1f94 DependenciesID=e92248ed854e8c81ada4ec17874a54c9 StaticDependenciesID=fe9014c40e19307dfa1d0ab4a0079066 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.694176 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3b510937c6e8103731746715448e00e8') in 0.0115505 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=21f6b754b7496b94c35e297a17ddbf6c DependenciesID=2ef9249c03fcbef6d7c65ab1c794e758 StaticDependenciesID=e6f7d1fac79408c13bd77530e086a34c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.543309 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '87d0a0bf788db3ca3eb5de7e0cd9f99c') in 0.0121873 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e1d53987ae51f38ab32a99e6ecfe6d9e DependenciesID=1415b7ac30036709a43446d327c177ae StaticDependenciesID=5f5174db9c5459507e08ff87add2de70 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.115510 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8d6e75518d0d88ce069dba4eb147aae4') in 0.0099667 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=eb027f66bda0f201537fbd8c8eacec1e DependenciesID=e5a6801330b50d6bc5f9ab37bd19ca0c StaticDependenciesID=25cc364dbc954bfa8e956064833f05b1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.429094 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'dcf66653affb8a1bc705f0f055f576ec') in 0.0145744 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3477f69083f6a8e5f6c4755b083730a8 DependenciesID=19db2b0320b7d4d9e3cada3149513049 StaticDependenciesID=2f923c5d7dc5face6fd4e298827200e6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.158774 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f69d617806e872358c3cedd957ff9563') in 0.0139805 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=92b1930612d730f92ef6e010f4288541 DependenciesID=1a953dfc62004f0116cbe853a328148e StaticDependenciesID=dc1e689c350e9ef4485d4444b7895701 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.241865 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2491970e15626ad8d109e34a9487463b') in 0.0137703 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=52c0be533db3f94e8f3538438cc29888 DependenciesID=dfd6014f0841ce8ed83b42c066bb552a StaticDependenciesID=017791954d9a525535b2222684714822 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.678376 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '168fa1ae0027f11887b6a4de48d1a795') in 0.0101449 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8c45048dba39b749f9a0af3ec656abdd DependenciesID=8a8a37510ad2358deeaf258a71204271 StaticDependenciesID=9363f48c9651b84b07ea5d46450ba5a3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.238307 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8c2b70dfc5b9c5b8b045ee9cefafbe8c') in 0.0142774 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=097b6d0d65450486f7453e8ac82fe0f7 DependenciesID=74e69975a443af884862f7844723f23b StaticDependenciesID=2ab373ecb6db6711d5e93c240fcbf89d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.022117 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '97654edba1707c941f8e09796c131128') in 0.0134753 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=06af2beb8c5a161135f7adea7beee49b DependenciesID=b64793558e2abda8115482c3c1c7a99e StaticDependenciesID=0a303d110e78b455c9361a9a714cf92c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.200650 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '57e015034aa4a799cf9256fb231d1717') in 0.0110514 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5e04bc22c30d3f52758c64228aea1eef DependenciesID=47ed89ba1e2b839d882a2f6f1b7478b8 StaticDependenciesID=3be327608b1135936c2f27447dbd4200 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.539805 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ed484dd1dfc7bc8e6d58a70bc413dd1a') in 0.0008135 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c1afc278c390b62f897c4135360d0bc DependenciesID=97d0d47d29c0234d2d53d795486919fd StaticDependenciesID=a1ee74005151401fc655a89c7f949a5d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.261930 seconds.
+  path: Assets/Scenes/3_Design
+  importAddress: Guid(45d7bfab3d4cbe54096b8f17a00883f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design using Guid(45d7bfab3d4cbe54096b8f17a00883f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '97979e66bdf79ac0c6487b732de59d59') in 0.0089957 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=89c983588d09962bde049a433b8d1f81 DependenciesID=8c04bf88e21e291d12ab77b94306aec4 StaticDependenciesID=a91ece51d885a975d03e426c1f5e6187 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.840255 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '489c2f45460b46debf76b96e3a7407f4') in 0.0154782 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d877a6a7cc074db155964b64bb68e5ff DependenciesID=7bae522ddb24fd99ec3c2bb3b3143779 StaticDependenciesID=80c4c95b3f433596afe9595040bc0a0f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.358144 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f0ddc58e0887ce6cfa191ab1de0edf4e') in 0.0092855 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5920e8cc773ddf20767b88f6d24c6cb9 DependenciesID=e533427c1fe35aace5bcf20ea12043c9 StaticDependenciesID=ca2882234cad004e5417cdaf681ac0c6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.967061 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1c50d52921afa4b2c177b35b43e744e2') in 0.0111327 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=192bfb7075df70df6242b3215b0d9d8b DependenciesID=c1ac963aeee6c4cbfb1fda4419e3315e StaticDependenciesID=7c2d1c5d854037c0c308ad025b80e21d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.573606 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '70adbac48db7972880c9a5261abfd590') in 0.009851 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6bd85a1df3e32563423eaec3c3894e69 DependenciesID=e4f0c24552923efd65d2156e9e656cad StaticDependenciesID=9d95575fb6a97de88899608f361e1f8a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.027283 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ec7d85e28cd65e45e73644ce3cc34032') in 0.0113863 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=793ebd5754371b1fff284b6e0d7d27f3 DependenciesID=6c40629790a6d75838a199b9bca0e4fd StaticDependenciesID=9d617cdd1c0e30ec3a5b0c61218932f0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.383225 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a497202548ec76c049139def402ecd2c') in 0.0098293 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f569e768cd3d44d21703a1a734ca19b6 DependenciesID=74fbdc2ceec31e4d6990608e7d842ef1 StaticDependenciesID=bbf6b85db0f5576dc16e125aa7126a70 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.847244 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ca15c96e665d11087868c04cd0675be9') in 0.0120352 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b3f843ac9365b45fc3f030a20026c5b6 DependenciesID=fb0be2e80b2c3a6b7b263ad409334630 StaticDependenciesID=6673ff2b6af5ab462154771de1f21bcd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.113329 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '66f40c7c80acad1f999c72ff9abf89a4') in 0.0118969 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4041106e0724b965700b326e34a76afb DependenciesID=34fa050946d42db7dd9a9569005baeef StaticDependenciesID=0de2976d69ba0c1bf4fc6daa1ae811e1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.885346 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'eca82e1c88f272fd841146d61af70c96') in 0.0109587 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fbe4a5b7abfc4f6270244433a171ec47 DependenciesID=c9615dd9d598c668462cc2fa589882e7 StaticDependenciesID=8de3f4af9da39fde924ddc41b4cea5ce 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.156222 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3ef8f2d8c66daff6c042e4c80092da54') in 0.011673 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c8549c7b8291e231f2368669a88a3e1c DependenciesID=de0fd419af3ad5a6c2ab18873b7b3315 StaticDependenciesID=7de9fbf66d7b4105d7d90a84d79b733e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.655481 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '387202796305e47fc1b3814cc37047b2') in 0.0110699 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bb8d7ecbda5a6fd33b60ddc92bb6a47e DependenciesID=5b28f2d1d2b57a3a8f17d71401c323d5 StaticDependenciesID=ba4e080a6024d3b0ae52fd1f427bebed 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.884415 seconds.
+  path: Assets/Scenes/3_Design.unity
+  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '88800ebf7638f7ee8730bcb3cc2fcdbc') in 0.0004673 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=068f9adb0426ef31a569e0a824884946 DependenciesID=4286f13c5b1dbb1618bb6d562c34ed9e StaticDependenciesID=41b5369fbb7e6eaf353850fe4af29710 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.779131 seconds.
+  path: Assets/Scenes/1_Entrance.unity
+  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cd7055be0d8bee01956e40cf554633fd') in 0.0004454 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c1afc278c390b62f897c4135360d0bc DependenciesID=6eb81497c91737612b515c43685b4521 StaticDependenciesID=246d1bd843af894dcc3180fa36d48086 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.910557 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '748d41f74b1de35b331dda3b2913c1c6') in 0.0117793 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=15942e6891f30fc98c82748981e35ff8 DependenciesID=0fb52e7947b55733936471c21ab24036 StaticDependenciesID=22b28c7304fb3c5b2856d8282fd6f41c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.495468 seconds.
+  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
+  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e923c5223a850184c14b464cdbb071d6') in 0.0094727 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d96fb28ed635d4de243425a9c4fea253 DependenciesID=eb2a97f0bf48752b4f540a932f13276a StaticDependenciesID=c77018d2d412c5ecd06cd4f4adf20820 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.579311 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'fbceddaf450e250a3e4b670e87232e9f') in 0.0004947 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bdce6002afb80c42a5808035eac5c3 DependenciesID=fc39573171f12585f22f9a5834b01e49 StaticDependenciesID=4bb3a98da2a5281a584b05eb234f2252 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.485356 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '83230104009987be5b562fbf5f8594e0') in 0.0089525 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=46ebd5d8674be3f1304b11bb342f16bd DependenciesID=fd79ee98acf4fffc40b9f6bca04e03f4 StaticDependenciesID=ed684ae096340d04a0ad7faeb0ddbbe3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.251432 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '451577356069828d7750df9d11f18fd0') in 0.0185573 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=58c6a54d5bee2d9f7eda1938d38b550e DependenciesID=c863f6e3bdeac2a6086db8ab04417c2c StaticDependenciesID=e1338edb2605c5467b4dd9973ac81232 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.344839 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '48c05ab894b7a66dbb661db529de2f18') in 0.0141449 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a7008879e09e74f56a8dd9f3a9c48e30 DependenciesID=4f728903ecba6ef3ae975d91c3298ec2 StaticDependenciesID=f1543dfc19817e71e8751e084b13ef2a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.835037 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '69a9ad440e8e5ade92a81c2bd008fdd3') in 0.0090585 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3695dc3bd3c7524eaf30d0c058f62e08 DependenciesID=91fb7a413da603e136fcb62c1c158d1c StaticDependenciesID=e62671f89f0da8d01b3f3d927083634b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.414869 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e3c74adc9a57282e09a0a1656f04c783') in 0.0153981 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ec36eec74cce400e7074c81267b32ef7 DependenciesID=08ada42fe9dee2da6a718e1ffa01a061 StaticDependenciesID=b92037304bf80d447680b05a85fdfd00 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.491614 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1e71341e00e375e356367239e463de10') in 0.0136266 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f7e1810bfbd0e2d653f0c51c87df6bd9 DependenciesID=ebd61617ee915ae73fb3d0bcb45c216f StaticDependenciesID=df9008e76f672b25c2a3e2d835eb1591 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.593840 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c867617dc3ecdf4d6bcda89d3cf95865') in 0.0077394 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6c001e954585b56de62bea699871770e DependenciesID=97c26ee38ad7d686f486b85d090d4c8a StaticDependenciesID=c386d602b1f270494528882ec00bfa05 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.040280 seconds.
+  path: Assets/Scenes/Flur.unity
+  importAddress: Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Flur.unity using Guid(34dfa7fa6bf1fab41b38f3f955066a51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '33f02bcaf477539df3f111e3762a04f7') in 0.0091681 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1835c9350b774ffa1a676b3edcde910f DependenciesID=7ce24c6f69632fed52635dfdf0225ea1 StaticDependenciesID=c424ca7dd0de5d87c5b999362a378626 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.246169 seconds.
+  path: Assets/Scenes/4_Film.unity
+  importAddress: Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4_Film.unity using Guid(d480dd713cdd40648a2cb4e9f8c4e5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '76f382fa575421ac354caba32127b880') in 0.0007371 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d5340aae96efdccf23c81ab036f39d9a DependenciesID=259e30adca7c3ddcf7044c7eddae25a7 StaticDependenciesID=37f07b182c64d55fd8d6a8dd9351dd0a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
