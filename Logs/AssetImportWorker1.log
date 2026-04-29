@@ -1,11 +1,11 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.4/staging' branch; Version is '6000.4.2f1 (7a4c1aeef971) revision 8014874'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf" at "2026-04-27T17:03:31.9263131Z"
 OS: 'Windows 11  (10.0.26200) Core' Language: 'de' Physical Memory: 16101 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf" at "2026-04-29T11:59:13.0786523Z"
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
 System  architecture: x64
 Process architecture: x64
-Date: 2026-04-27T17:03:31Z
+Date: 2026-04-29T11:59:13Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.4.2f1\Editor\Unity.exe
@@ -19,7 +19,7 @@ C:/Desktop/UnityProjekte/SS26/MacroGame/Macro-Game_V2
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-52082
+54552
 -licensingIpc
 LicenseClient-luisf
 -force-d3d12
@@ -68,12 +68,12 @@ C:/Desktop/UnityProjekte/SS26/MacroGame/Macro-Game_V2
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-Player connection [16720]  Target information:
+Player connection [20560]  Target information:
 
-Player connection [16720]  * "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 525336210 [EditorId] 525336210 [Version] 1048832 [Id] WindowsEditor(7,Aurora_R16_Luis) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [20560]  * "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 1371848142 [EditorId] 1371848142 [Version] 1048832 [Id] WindowsEditor(7,Aurora_R16_Luis) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [16720] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [16720] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20560] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20560] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 13
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -85,7 +85,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 9.42 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 12.85 ms, found 4 plugins.
 Initialize engine version: 6000.4.2f1 (7a4c1aeef971)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Desktop/UnityProjekte/SS26/MacroGame/Macro-Game_V2/Assets
@@ -103,7 +103,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
 CodeReloadManager initialized
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -115,17 +115,17 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.4.2f1/E
 	ResponseStatus: Unsupported protocol version '1.18.1'.
 [Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-luisf"
 [Licensing::IpcConnector] LicenseClient-luisf channel disconnected successfully.
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf-6000.4.2" at "2026-04-27T17:03:33.4260514Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf-6000.4.2" at "2026-04-29T11:59:15.3923604Z"
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.18.1+9fbee8e
-  Session Id:              d77b44ae0613435b9fad569f49919b7a
-  Correlation Id:          99fb78bea9e8f2e793d0918bc228cc9a
-  External correlation Id: 6383902020580775298
+  Session Id:              a367ca480c954a50b3b8dc5263b13c0a
+  Correlation Id:          a24af9894f636f555bf672583d8a4778
+  External correlation Id: 9045031220796976377
   Machine Id:              AJulpBpliBR+K7VQ9bZHV9LIM7o=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-luisf-6000.4.2" (connect: 0.00s, validation: 0.00s, handshake: 2.10s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf-6000.4.2-notifications" at "2026-04-27T17:03:35.5321473Z"
-[Licensing::Module] Licensing Background thread has ended after 3.61s
-[Licensing::Module] Licensing is initialized (took 2.52s).
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-luisf-6000.4.2" (connect: 0.00s, validation: 0.00s, handshake: 1.74s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-luisf-6000.4.2-notifications" at "2026-04-29T11:59:17.1363985Z"
+[Licensing::Module] Licensing Background thread has ended after 4.06s
+[Licensing::Module] Licensing is initialized (took 2.99s).
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
   Id: 9072250708552-UnityPersXXXX
@@ -133,7 +133,7 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.4.2f1/E
   Type: Assigned
   Expiration: Unlimited
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.4.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 2.522579 seconds.
+Registered in 2.995661 seconds.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -143,22 +143,22 @@ Package Manager log level set to [2]
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.314 seconds
-Domain Reload Profiling: 3181ms
-	BeginReloadAssembly (85ms)
+- Finished resetting the current domain, in  0.319 seconds
+Domain Reload Profiling: 3754ms
+	BeginReloadAssembly (97ms)
 	RebuildCommonClasses (25ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (2570ms)
-	LoadAllAssembliesAndSetupDomain (178ms)
-		LoadAssemblies (84ms)
-		AnalyzeDomain (170ms)
-			TypeCache.Refresh (169ms)
-				TypeCache.ScanAssembly (157ms)
-	FinalizeReload (315ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (3054ms)
+	LoadAllAssembliesAndSetupDomain (249ms)
+		LoadAssemblies (97ms)
+		AnalyzeDomain (240ms)
+			TypeCache.Refresh (237ms)
+				TypeCache.ScanAssembly (142ms)
+	FinalizeReload (320ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (74ms)
-			BeforeProcessingInitializeOnLoad (61ms)
-			ProcessInitializeOnLoadAttributes (76ms)
+			InitializePlatformSupportModulesInManaged (80ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (70ms)
 			ProcessInitializeOnLoadMethodAttributes (59ms)
 ========================================================================
 Worker process is ready to serve import requests
@@ -194,7 +194,6 @@ Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Un
 Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
 Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
 Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
-Refreshing native plugins compatible for Editor in 3.55 ms, found 4 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -206,89 +205,56 @@ Native extension for WebGL target not found
 [Package Manager] Cannot connect to Unity Package Manager local server
 ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.648 seconds
-Domain Reload Profiling: 1314ms
-	BeginReloadAssembly (121ms)
-		DisableScriptedObjects (3ms)
-		CreateAndSetChildDomain (19ms)
-	RebuildCommonClasses (25ms)
+- Finished resetting the current domain, in  0.787 seconds
+Domain Reload Profiling: 1883ms
+	BeginReloadAssembly (122ms)
+		DisableScriptedObjects (6ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (24ms)
 	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (72ms)
-	LoadAllAssembliesAndSetupDomain (439ms)
-		LoadAssemblies (321ms)
-		AnalyzeDomain (183ms)
-			TypeCache.Refresh (129ms)
-				TypeCache.ScanAssembly (118ms)
-			BuildScriptInfoCaches (45ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (648ms)
+	initialDomainReloadingComplete (146ms)
+	LoadAllAssembliesAndSetupDomain (794ms)
+		LoadAssemblies (643ms)
+		AnalyzeDomain (213ms)
+			TypeCache.Refresh (149ms)
+				TypeCache.ScanAssembly (137ms)
+			BuildScriptInfoCaches (51ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (787ms)
 		SetupLoadedEditorAssemblies (0ms)
-			InitializePlatformSupportModulesInManaged (14ms)
-			BeforeProcessingInitializeOnLoad (90ms)
-			ProcessInitializeOnLoadAttributes (302ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (379ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
 			AfterProcessingInitializeOnLoad (3ms)
 		AwakeInstancesAfterBackupRestoration (4ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
 Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6536 unused Assets / (5.5 MB). Loaded Objects now: 7363.
-Memory consumption went from 161.4 MB to 155.9 MB.
-Total: 6.469700 ms (FindLiveObjects: 1.023800 ms CreateObjectMapping: 0.233400 ms MarkObjects: 3.847800 ms  DeleteObjects: 1.362800 ms)
+Unloading 6536 unused Assets / (5.6 MB). Loaded Objects now: 7363.
+Memory consumption went from 163.7 MB to 158.1 MB.
+Total: 6.900200 ms (FindLiveObjects: 1.076800 ms CreateObjectMapping: 0.235800 ms MarkObjects: 4.248800 ms  DeleteObjects: 1.337300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 713354.962230 seconds.
-  path: Assets/Scenes/1_Entrance.unity
-  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '522a614cd8485e7b87fbdb7916718af6') in 0.0565394 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=02bd36f5ecff11f777e75a4d53cd0a57 DependenciesID=58870bf50297260f716ae35e0b21c386 StaticDependenciesID=22fc68d4b5f54cf950ef0fa98678f296 
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 1
+  Time since last request: 866751.216648 seconds.
+  path: Assets/Prefabs/Rooms/Scene_5_GameLab.fbx
+  importAddress: Guid(e2c2f97397922d443a3b8a998b7e58b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rooms/Scene_5_GameLab.fbx using Guid(e2c2f97397922d443a3b8a998b7e58b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd28d08586583394cabdabdda471a48a1') in 1.3473402 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f10cd39f6429e55e55666cd8a5b537f DependenciesID=03e3b762d0f5c467b85a3bc7baea585b StaticDependenciesID=c3b952426891ddcae7adf5b5f35bf7ce 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 209
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3290.927178 seconds.
-  path: Assets/Scenes/1_Entrance.unity
-  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '06d5a99bede7f29d28a5272487c9569d') in 0.0324453 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ef4259a36876010edd729a4e90b3cf6f DependenciesID=4d0a27e8abfa59ba8295192f2150eb4d StaticDependenciesID=10a5b7fc0907b4c9f7216b427478d79d 
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 1742.375143 seconds.
-  path: Assets/Scenes/1_Entrance/Lightmap-0_comp_light.exr
-  importAddress: Guid(8972e17e7a6c77542aadd74b786f7c08) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/1_Entrance/Lightmap-0_comp_light.exr using Guid(8972e17e7a6c77542aadd74b786f7c08) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)[Licensing::Client] Successfully resolved entitlement details
- -> (Import Result ID: '86f4c7ab189c11e75b82f7f5846d8f18') in 0.1852977 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c8283a15a4e0d336d6a4115cdb85754b DependenciesID=f8379c0befe58cd32d09dbd380db40e8 StaticDependenciesID=eb410a32dc3aafbe6983b295500cf07a 
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 76.965218 seconds.
-  path: Assets/Scenes/1_Entrance/Lightmap-0_comp_dir.png
-  importAddress: Guid(c00ec43b6482ee54cb78462efffe6e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/1_Entrance/Lightmap-0_comp_dir.png using Guid(c00ec43b6482ee54cb78462efffe6e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9e1d43ea736d4430068f17143b794bb4') in 0.2001492 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0ad9aac61ed9891bce613e8a769e4817 DependenciesID=52d735d5d14217330033afa747643d90 StaticDependenciesID=ffd02a355043180294aea43b8a5c1aa4 
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 7331.348034 seconds.
-  path: Assets/Scenes/3_Design/PostProcessing Profile.asset
-  importAddress: Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/3_Design/PostProcessing Profile.asset using Guid(1f4ec9cec2c23fa4c8887fafe9171b2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4a31a1ddaaa1dba3ff2051d02838b216') in 0.0571966 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=abaab3bac34bed781296e221492b99c8 DependenciesID=b8a55cc6270e1a38eb8a5136a321c8da StaticDependenciesID=6db046c82469b7c14fff39fb87bf4dc5 
+  Time since last request: 1618.690325 seconds.
+  path: Assets/Scenes/5_GameLab.unity
+  importAddress: Guid(dd1c19d905c921747b180d30acb237ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/5_GameLab.unity using Guid(dd1c19d905c921747b180d30acb237ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b3c24374b79696e5805024cbbcef37e7') in 0.1057508 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=71899a03a109f89c24aa2687c7375f66 DependenciesID=a3dae98b11f18bde7f53f2757fc2288f StaticDependenciesID=e65ed1b494134fb0d42880193e31eaa9 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 98.865628 seconds.
-  path: Assets/Scenes/3_Design.unity
-  importAddress: Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/3_Design.unity using Guid(08e4698ea977001418284133fab7dbdc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '053cbc9ff35cd4643fb9854a0b42cc0d') in 0.0213409 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4614fc5959706efb8289097538d64aee DependenciesID=267651926fd13af663c6a3c86470b06f StaticDependenciesID=d20509f0241947f9e0f3c06eb265bf95 
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 320.366785 seconds.
-  path: Assets/Scenes/1_Entrance.unity
-  importAddress: Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
-Start importing Assets/Scenes/1_Entrance.unity using Guid(e785458d2b25cc04ea9f9c98d3064b85) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8b2a4485b59c22e2606aabe0c8bb8443') in 0.0173038 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ae0d3b6d5c73ea49c0e0904b54edf261 DependenciesID=9b286ad02f1e05f69b0c728a50a699a7 StaticDependenciesID=623def28cd45621511483c5187d78698 
+  Time since last request: 560.541653 seconds.
+  path: Assets/Scenes/5_GameLab.unity
+  importAddress: Guid(dd1c19d905c921747b180d30acb237ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/5_GameLab.unity using Guid(dd1c19d905c921747b180d30acb237ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9ac5b15433397f3c6ff88b2b0caab99e') in 0.0129334 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4698026c7872658b6508d3e296389ca8 DependenciesID=f255d3e3c4e92f717ff6a4a6052ce78e StaticDependenciesID=6c3b07e339619fb9a71958fd1c116209 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
