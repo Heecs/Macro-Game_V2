@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Unity Projects\\Macro-Game_V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,32 +31,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Scene_Loader.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T20:03:07.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Transition.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Transition.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Transition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T19:57:24.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Player Movement.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Player\\Player Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Movement.cs",
@@ -64,8 +38,32 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Player Movement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:31:44.875Z",
+              "WhenOpened": "2026-04-17T17:11:09.019Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scene_Loader.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:03:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transition.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Transition.cs",
+              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Transition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:57:24.501Z"
             }
           ]
         }
