@@ -45,14 +45,14 @@ public class Door : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other == GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>())
+        if (other == playerCO)
         {
             canTry = true;
         }
     }
     private void OnTriggerExit(Collider other)
     {
-        if(other == GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>())
+        if(other == playerCO)
         {
             canTry = false;
         }
