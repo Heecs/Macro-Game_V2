@@ -14,5 +14,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/6_Floor.unity
     guid: 98a1f729b737bcc48b90423ed2a58942
+  - enabled: 1
+    path: Assets/Scenes/1_Entrance.unity
+    guid: e785458d2b25cc04ea9f9c98d3064b85
+  - enabled: 1
+    path: Assets/Scenes/Flur.unity
+    guid: 34dfa7fa6bf1fab41b38f3f955066a51
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
