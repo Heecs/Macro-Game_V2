@@ -349,7 +349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6419492357887003388, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
       propertyPath: m_Name
-      value: Door
+      value: Flur_Entrance_1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
