@@ -6,6 +6,7 @@ TagManager:
   tags:
   - SceneLoader
   - PlayerCharacter
+  - DialogueManager
   layers:
   - Default
   - TransparentFX

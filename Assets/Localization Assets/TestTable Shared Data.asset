@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Key: <hello
     m_Metadata:
       m_Items: []
+  - m_Id: 2152444115111936
+    m_Key: testEntry
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

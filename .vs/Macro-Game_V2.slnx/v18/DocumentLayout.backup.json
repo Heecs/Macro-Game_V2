@@ -1,25 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Unity Projects\\Macro-Game_V2\\",
+  "WorkspaceRootPath": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\samples\\localization\\1.5.11\\loading strings\\localizedstringtableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\localization\\1.5.11\\loading strings\\localizedstringtableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\samples\\localization\\1.5.11\\loading strings\\localizedstringgetlocalizedstringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\localization\\1.5.11\\loading strings\\localizedstringgetlocalizedstringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kuehn\\unity\\macro-game_v2\\assets\\scripts\\scenes\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\transition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,75 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalizedStringTableExample.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringTableExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringTableExample.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringTableExample.cs",
+              "RelativeToolTip": "Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringTableExample.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T22:17:13.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalizedStringGetLocalizedStringExample.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringGetLocalizedStringExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringGetLocalizedStringExample.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringGetLocalizedStringExample.cs",
+              "RelativeToolTip": "Assets\\Samples\\Localization\\1.5.11\\Loading Strings\\LocalizedStringGetLocalizedStringExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T22:10:23.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DialogueNPC.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:34:52.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:41:00.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:33:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player Movement.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Player\\Player Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Movement.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Player\\Player Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Movement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:11:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA2wDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T11:29:25.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T11:11:25.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-17T11:11:25.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Scene_Loader.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
               "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T20:03:07.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T20:03:07.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Transition.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
+              "DocumentMoniker": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Transition.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
+              "ToolTip": "C:\\Users\\kuehn\\Unity\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Transition.cs",
               "RelativeToolTip": "Assets\\Scripts\\Scenes\\Transition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T19:57:24.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player Movement.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Player\\Player Movement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Movement.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Player\\Player Movement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Movement.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:31:44.875Z",
-              "EditorCaption": ""
             }
           ]
         }
