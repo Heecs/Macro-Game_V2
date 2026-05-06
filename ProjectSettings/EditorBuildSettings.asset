@@ -20,5 +20,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Flur.unity
     guid: 34dfa7fa6bf1fab41b38f3f955066a51
+  - enabled: 1
+    path: Assets/Scenes/3_Design.unity
+    guid: 08e4698ea977001418284133fab7dbdc
+  - enabled: 1
+    path: Assets/Scenes/4_Film.unity
+    guid: d480dd713cdd40648a2cb4e9f8c4e5bf
+  - enabled: 1
+    path: Assets/Scenes/5_GameLab.unity
+    guid: dd1c19d905c921747b180d30acb237ca
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
