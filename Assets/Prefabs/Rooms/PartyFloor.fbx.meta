@@ -3,7 +3,17 @@ guid: 8dd3d74147360094783d48eb5f4e0bbc
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColorAtlasTexture
+    second: {fileID: 2100000, guid: 8fb2030bf72b402468454f1b80463d87, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ColorAtlas
+    second: {fileID: 2800000, guid: 2a9718b3d788f7a49b30514232175500, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
