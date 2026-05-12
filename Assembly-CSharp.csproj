@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\Scenes\Transition.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Samples\Localization\1.5.11\Loading Strings\LocalizedStringTableExample.cs" />
+    <Compile Include="Assets\Scripts\DialogueSet.cs" />
     <Compile Include="Assets\Scripts\Scenes\Scene_Loader.cs" />
     <Compile Include="Assets\Scripts\DialogueNPC.cs" />
     <Compile Include="Assets\Samples\Localization\1.5.11\Loading Strings\LoadingMultipleStringsExample.cs" />

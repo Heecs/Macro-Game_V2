@@ -68,10 +68,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   playerCO: {fileID: 0}
   canInteract: 0
-  stringTableCollectionName: TestTable
-  dialogueKeys:
-  - <hello
-  - testEntry
+  dialogues:
+  - tableName: testTable
+    keys:
+    - <hello
+    - testEntry
+  - tableName: testTable
+    keys:
+    - testEntry
+    - <hello
+  activeDialogueSet: 0
 --- !u!1 &2417113996082051801
 GameObject:
   m_ObjectHideFlags: 0

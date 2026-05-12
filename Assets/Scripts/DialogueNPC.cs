@@ -12,8 +12,11 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 public class DialogueNPC : Interactable
 {
 
-    public string stringTableCollectionName = "TestTable";
-    public List<String> dialogueKeys;
+    private string stringTableCollectionName = "TestTable";
+    private List<String> dialogueKeys;
+    public List<DialogueSet> dialogues;
+    public int activeDialogueSet;
+
     private DialogueManager manager;
 
 
@@ -77,6 +80,11 @@ public class DialogueNPC : Interactable
         {
             var stringTable = loadingOperation.Result;
             lines = new List<string>();
+            if (activeDialogueSet < dialogues.Count)
+            {
+                stringTableCollectionName = dialogues[activeDialogueSet].tableName;
+                dialogueKeys = dialogues[activeDialogueSet].keys;
+            }
             foreach(string key in dialogueKeys)
             {
                 lines.Add(GetLocalizedString(stringTable, key));
