@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\Macro-Game_V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -259,10 +263,6 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\fonts\\anton ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -278,7 +278,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -286,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
@@ -299,20 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:33.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TMPro_Surface.cginc",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
@@ -320,12 +307,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:33.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:33.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TMPro_Properties.cginc",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
@@ -333,12 +319,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:33.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:33.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TMPro_Mobile.cginc",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
@@ -346,12 +331,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:33.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:33.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TMPro.cginc",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
@@ -359,12 +343,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:32.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:32.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TMP_Sprite.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
@@ -372,12 +355,36 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:32.644Z",
+              "WhenOpened": "2026-05-07T07:56:32.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scene_Loader.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:03:07.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:56:33.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TMP_SDF-Surface-Mobile.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
@@ -385,12 +392,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:31.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:31.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TMP_SDF-Surface.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
@@ -398,12 +404,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:31.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:31.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TMP_SDF-Mobile-2-Pass.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
@@ -411,12 +416,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:31.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:31.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TMP_SDF-Mobile.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
@@ -424,12 +428,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:31.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:31.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TMP_SDF-Mobile SSD.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
@@ -437,12 +440,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:31.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:31.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TMP_SDF-Mobile Overlay.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
@@ -450,12 +452,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:30.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:30.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TMP_SDF-Mobile Masking.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
@@ -463,12 +464,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:30.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:30.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TMP_SDF.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
@@ -476,12 +476,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:30.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:30.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TMP_SDF SSD.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
@@ -489,12 +488,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:30.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:30.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "TMP_SDF Overlay.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
@@ -502,12 +500,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:29.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:29.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TMP_Bitmap-Mobile.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
@@ -515,12 +512,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:29.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:29.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "TMP_Bitmap-Custom-Atlas.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
@@ -528,12 +524,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:29.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:29.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TMP_Bitmap.shader",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
@@ -541,12 +536,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:28.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:28.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SDFFunctions.hlsl",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
@@ -554,12 +548,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-05-07T07:56:27.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:27.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "LineBreaking Leading Characters.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
@@ -567,12 +560,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:26.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:26.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LineBreaking Following Characters.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
@@ -580,12 +572,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:26.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:26.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "LiberationSans - OFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
@@ -593,12 +584,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:26.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:26.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "WarpTextExample.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
@@ -606,12 +596,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\WarpTextExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:26.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:26.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "VertexZoom.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexZoom.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexZoom.cs",
@@ -619,12 +608,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexZoom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:25.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:25.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "VertexShakeB.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeB.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeB.cs",
@@ -632,12 +620,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:25.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:25.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "VertexShakeA.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeA.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeA.cs",
@@ -645,12 +632,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexShakeA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:25.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:25.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "VertexJitter.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexJitter.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexJitter.cs",
@@ -658,12 +644,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexJitter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:25.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:25.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "VertexColorCycler.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexColorCycler.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexColorCycler.cs",
@@ -671,12 +656,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\VertexColorCycler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:25.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:25.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "TMPro_InstructionOverlay.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMPro_InstructionOverlay.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMPro_InstructionOverlay.cs",
@@ -684,12 +668,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMPro_InstructionOverlay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:24.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:24.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "TMP_UiFrameRateCounter.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_UiFrameRateCounter.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_UiFrameRateCounter.cs",
@@ -697,12 +680,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_UiFrameRateCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:24.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:24.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "TMP_TextSelector_B.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
@@ -710,12 +692,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:24.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:24.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "TMP_TextSelector_A.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_A.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_A.cs",
@@ -723,12 +704,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_A.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:24.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:24.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "TMP_TextInfoDebugTool.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
@@ -736,12 +716,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:24.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:24.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "TMP_TextEventHandler.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
@@ -749,12 +728,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:23.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:23.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "TMP_TextEventCheck.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventCheck.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventCheck.cs",
@@ -762,12 +740,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:23.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:23.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "TMP_PhoneNumberValidator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_PhoneNumberValidator.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_PhoneNumberValidator.cs",
@@ -775,12 +752,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_PhoneNumberValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:23.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:23.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "TMP_FrameRateCounter.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
@@ -788,12 +764,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:23.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:23.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "TMP_ExampleScript_01.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
@@ -801,12 +776,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "TMP_DigitValidator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_DigitValidator.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_DigitValidator.cs",
@@ -814,12 +788,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_DigitValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "TextMeshSpawner.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshSpawner.cs",
@@ -827,12 +800,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshSpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "TextMeshProFloatingText.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshProFloatingText.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshProFloatingText.cs",
@@ -840,12 +812,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextMeshProFloatingText.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "TextConsoleSimulator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextConsoleSimulator.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextConsoleSimulator.cs",
@@ -853,12 +824,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TextConsoleSimulator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "TeleType.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
@@ -866,12 +836,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TeleType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:22.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:22.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "SkewTextExample.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SkewTextExample.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SkewTextExample.cs",
@@ -879,12 +848,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SkewTextExample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:21.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:21.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "SimpleScript.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
@@ -892,12 +860,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\SimpleScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:21.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:21.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ShaderPropAnimator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ShaderPropAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ShaderPropAnimator.cs",
@@ -905,12 +872,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ShaderPropAnimator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:21.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:21.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ObjectSpin.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
@@ -918,12 +884,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ObjectSpin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:21.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:21.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "EnvMapAnimator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\EnvMapAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\EnvMapAnimator.cs",
@@ -931,12 +896,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\EnvMapAnimator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:20.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:20.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "DropdownSample.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\DropdownSample.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\DropdownSample.cs",
@@ -944,12 +908,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\DropdownSample.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:20.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:20.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ChatController.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ChatController.cs",
@@ -957,12 +920,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\ChatController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:20.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:20.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
@@ -970,12 +932,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:20.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:20.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Benchmark04.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
@@ -983,12 +944,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:19.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:19.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "Benchmark03.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark03.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark03.cs",
@@ -996,12 +956,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark03.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:19.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:19.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Benchmark02.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
@@ -1009,12 +968,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:19.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:19.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Benchmark01_UGUI.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
@@ -1022,12 +980,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:19.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:19.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Benchmark01.cs",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
@@ -1035,12 +992,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:56:19.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:19.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Unity - OFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Unity - OFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Unity - OFL.txt",
@@ -1048,12 +1004,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Unity - OFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:18.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:18.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "Roboto-Bold - License.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - License.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - License.txt",
@@ -1061,12 +1016,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - License.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:18.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:18.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "Roboto-Bold - AFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - AFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - AFL.txt",
@@ -1074,12 +1028,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Roboto-Bold - AFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:18.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:18.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Oswald-Bold - OFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Oswald-Bold - OFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Oswald-Bold - OFL.txt",
@@ -1087,12 +1040,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Oswald-Bold - OFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:18.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:18.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "Bangers - OFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Bangers - OFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Bangers - OFL.txt",
@@ -1100,12 +1052,11 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Bangers - OFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:18.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:18.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "Anton OFL.txt",
               "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Anton OFL.txt",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Anton OFL.txt",
@@ -1113,8 +1064,7 @@
               "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Fonts\\Anton OFL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-07T07:56:17.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:56:17.758Z"
             },
             {
               "$type": "Document",
@@ -1127,19 +1077,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T17:11:09.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Scene_Loader.cs",
-              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAqAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T20:03:07.092Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
