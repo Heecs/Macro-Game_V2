@@ -1,3 +1,4 @@
+using System.ComponentModel.Design.Serialization;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -38,6 +39,7 @@ public class Door : MonoBehaviour
     {
         if(playerCard.currentLevelIndex >= requiredPlayerCardIndex)
         {
+            PlayerPrefs.SetString("DoorName", transform.root.name);
             sceneLoader.sceneToLoad = sceneToLoadIndex;
             sceneLoader.StartTransition();
         }
