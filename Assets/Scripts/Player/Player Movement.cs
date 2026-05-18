@@ -33,11 +33,11 @@ public class PlayerMovement : MonoBehaviour
     public void MovePlayer()
     {
         Vector2 inputVector = _movementInput.ReadValue<Vector2>();
-
+        Vector3 flatforward = new Vector3(_playerCamera.transform.forward.x, 0, _playerCamera.transform.forward.z).normalized;
+        Vector3 flatRight = new Vector3(_playerCamera.transform.right.x, 0, _playerCamera.transform.right.z).normalized;
         Vector3 movementVector = new Vector3(inputVector.x, 0, inputVector.y).normalized;
-
-            Vector3 move = new Vector3(movementVector.x, 0, movementVector.y) * movementSpeed * Time.deltaTime;
-            playerRB.linearVelocity = movementVector * movementSpeed;
+        Vector3 localMovement = flatforward * movementVector.z + flatRight * movementVector.x;
+        playerRB.linearVelocity = localMovement * movementSpeed;
             _playerCamera.transform.position = playerCharacter.transform.position + offset;   
     }
 }

@@ -1,3 +1,4 @@
+using System.ComponentModel.Design.Serialization;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -38,6 +39,7 @@ public class Door : MonoBehaviour
     {
         if(playerCard.currentLevelIndex >= requiredPlayerCardIndex)
         {
+            PlayerPrefs.SetString("DoorName", transform.root.name);
             sceneLoader.sceneToLoad = sceneToLoadIndex;
             sceneLoader.StartTransition();
         }
@@ -45,14 +47,14 @@ public class Door : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other == GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>())
+        if (other == playerCO)
         {
             canTry = true;
         }
     }
     private void OnTriggerExit(Collider other)
     {
-        if(other == GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>())
+        if(other == playerCO)
         {
             canTry = false;
         }

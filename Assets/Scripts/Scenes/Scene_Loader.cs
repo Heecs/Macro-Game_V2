@@ -9,7 +9,7 @@ public class Scene_Loader : MonoBehaviour
 
     public Animator transitionAnimator; // The Animator assigned to the scene transition animation
 
-
+    public Rigidbody player;
 
     public List<string> sceneNames; // List of Scenes the Scene Loader can access.
 
@@ -20,7 +20,8 @@ public class Scene_Loader : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        player = GameObject.FindWithTag("PlayerCharacter").GetComponent<Rigidbody>();
+        player.transform.position = new Vector3(GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.x, player.transform.position.y, GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.z) + GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.forward * 2;
     }
 
     void Update()
