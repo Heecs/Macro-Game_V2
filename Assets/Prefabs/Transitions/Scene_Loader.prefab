@@ -426,6 +426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 779325183720397701}
   - component: {fileID: 5368984023694686427}
+  - component: {fileID: 1851073565073454846}
   m_Layer: 0
   m_Name: Scene_Loader
   m_TagString: SceneLoader
@@ -471,3 +472,17 @@ MonoBehaviour:
   - 5_GameLab
   - 7_PartyFloor
   sceneToLoad: 0
+--- !u!114 &1851073565073454846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9057423469764972306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b92bb02f284561c42b81c1e0514d9f00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Mission_Manager
+  missionList: {fileID: 0}
+  playerCard: {fileID: 0}
