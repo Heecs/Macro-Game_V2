@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\",
+  "WorkspaceRootPath": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\dertr\\onedrive\\dokumente\\github\\macro-game_v2\\assets\\scripts\\ui\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Scene_Loader.cs",
-              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MenuButton.cs",
+              "DocumentMoniker": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuButton.cs",
+              "ToolTip": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuButton.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:09:45.469Z",
+              "WhenOpened": "2026-05-15T08:40:18.841Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DialogueNPC.cs",
-              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
-              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:29:29.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:21:31.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Interactable.cs",
-              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
-              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:19:15.28Z"
             }
           ]
         }
