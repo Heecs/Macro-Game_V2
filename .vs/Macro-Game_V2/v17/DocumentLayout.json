@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\",
+  "WorkspaceRootPath": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\dertr\\onedrive\\dokumente\\github\\macro-game_v2\\assets\\scripts\\ui\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\filmmakingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\filmmakingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\ui\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menubutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FilmmakingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\FilmmakingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FilmmakingManager.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\FilmmakingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FilmmakingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T11:19:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuButton.cs",
-              "DocumentMoniker": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuButton.cs",
-              "ToolTip": "C:\\Users\\dertr\\OneDrive\\Dokumente\\GitHub\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\UI\\MenuButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\MenuButton.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T08:40:18.841Z",
               "EditorCaption": ""
