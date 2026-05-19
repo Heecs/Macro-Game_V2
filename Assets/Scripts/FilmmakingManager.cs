@@ -121,11 +121,11 @@ public class FilmmakingManager : MonoBehaviour
             lightResult = CheckResults(lightAccuracy, lightGreatRange, lightGoodRange, lightOkRange);
             PauseGame();
             ResultsPanel.SetActive(true);
-            camResultText.text = "Camera Angle: " + cam.transform.rotation.eulerAngles.x + "°";
+            camResultText.text = "Camera Angle: " + (int)cam.transform.rotation.eulerAngles.x + "°";
             camResultGrade.text = camResult;
-            audioResultText.text = "Volume: " + audioSource.volume * 100 + "%";
+            audioResultText.text = "Volume: " + (int)(audioSource.volume * 100) + "%";
             audioResultGrade.text = audioResult;
-            lightResultText.text = "Brightness: " + lightbulb.intensity / intensityMult + "%";
+            lightResultText.text = "Brightness: " + (int)(lightbulb.intensity / intensityMult) + "%";
             lightResultGrade.text = lightResult;
         }
     }
