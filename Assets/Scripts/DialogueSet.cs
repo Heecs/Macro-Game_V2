@@ -6,4 +6,5 @@ public class DialogueSet
 {
     public string tableName;
     public List<string> keys;
+    public Mission questTarget;
 }

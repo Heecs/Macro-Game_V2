@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:45:18.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueSet.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueSet.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:49:19.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mission_List.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:45:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mission_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:45:03.832Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,34 +100,36 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
               "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T09:29:29.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:21:31.312Z"
+              "WhenOpened": "2026-04-30T09:21:31.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T09:19:15.28Z"
+              "WhenOpened": "2026-04-30T09:19:15.28Z",
+              "EditorCaption": ""
             }
           ]
         }

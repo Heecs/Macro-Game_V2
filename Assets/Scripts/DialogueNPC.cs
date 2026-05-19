@@ -23,6 +23,7 @@ public class DialogueNPC : Interactable
     private List<String> lines;
     private bool wasActive = false;
     private int currentLine = 0;
+    private Mission_Manager missionManager;
 
 
     protected override void Start()
@@ -49,6 +50,10 @@ public class DialogueNPC : Interactable
         }
         else
         {
+            if (dialogues[activeDialogueSet].questTarget != null)
+            {
+                dialogues[activeDialogueSet].questTarget.completed = true;
+            }
             manager.endDialogue();
             wasActive = false;
             currentLine = 0;
