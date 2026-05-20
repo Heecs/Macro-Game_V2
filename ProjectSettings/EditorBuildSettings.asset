@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/7_PartyFloor.unity
     guid: 565e504b725029a41a602bfb29e124dd
+  - enabled: 1
+    path: Assets/Scenes/8_FilmmakingGame.unity
+    guid: 1792983ef1171ba48ae4e079f0133d41
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 720e4a44449de744da5a18ad9d6de4b1, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
