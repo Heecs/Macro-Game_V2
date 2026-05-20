@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "D:\\Unity Projects\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,6 +17,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Mission_Manager.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
               "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T16:00:30.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Mission_List.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
               "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
               "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T16:00:28.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Mission.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Door.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "DialogueSet.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueSet.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DialogueManager.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
@@ -132,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Card.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
@@ -145,20 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DialogueNPC.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
               "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
               "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:34:23.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Interactable.cs",
               "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
@@ -166,8 +166,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T11:34:23.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T11:34:23.497Z"
             }
           ]
         }

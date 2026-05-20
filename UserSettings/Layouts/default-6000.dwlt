@@ -2926,10 +2926,7 @@ MonoBehaviour:
       m_Data: 54500
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53394
-    - m_Data: 53396
-    - m_Data: 53398
-    - m_Data: 53400
+    - m_Data: 54584
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2963,10 +2960,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53394
-    - m_Data: 53396
-    - m_Data: 53398
-    - m_Data: 53400
+    - m_Data: 54584
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3690,7 +3684,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       displayed: 0
       id: unity-spline-inspector
-      index: 16
+      index: 12
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
@@ -3757,9 +3751,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.06941134, y: -0.6481841, z: -1.556897}
+    m_Target: {x: 66.14199, y: 74.66784, z: 1060.7526}
     speed: 2
-    m_Value: {x: 448.45184, y: -150.19897, z: -984.30695}
+    m_Value: {x: 0.06941134, y: -0.6481841, z: -1.556897}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -3806,13 +3800,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.2508534, y: -0.042973526, z: 0.011125431, w: -0.96703774}
+    m_Target: {x: -0.023674835, y: 0.028478203, z: 0.0007247056, w: 0.9992714}
     speed: 2
-    m_Value: {x: 0.015134105, y: 0.9745326, z: -0.06911137, w: 0.2126096}
+    m_Value: {x: -0.2508534, y: -0.042973522, z: 0.011125431, w: -0.96703774}
   m_Size:
-    m_Target: 8.773425
+    m_Target: 555.7409
     speed: 2
-    m_Value: 555.7409
+    m_Value: 8.773425
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -3890,7 +3884,7 @@ MonoBehaviour:
   m_ShowGizmos: 1
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1920, y: 1080}
+  m_TargetSize: {x: 388, y: 579}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -3905,10 +3899,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -960
-    m_HBaseRangeMax: 960
-    m_VBaseRangeMin: -540
-    m_VBaseRangeMax: 540
+    m_HBaseRangeMin: -194
+    m_HBaseRangeMax: 194
+    m_VBaseRangeMin: -289.5
+    m_VBaseRangeMax: 289.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -3926,23 +3920,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 258
-      height: 831
-    m_Scale: {x: 0.134375, y: 0.134375}
-    m_Translation: {x: 128.99998, y: 415.5}
+      width: 388
+      height: 579
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 194, y: 289.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -959.9998
-      y: -3092.0928
-      width: 1919.9999
-      height: 6184.1855
+      x: -194
+      y: -289.5
+      width: 388
+      height: 579
     m_MinimalGUI: 1
-  m_defaultScale: 0.134375
-  m_LastWindowPixelSize: {x: 258, y: 852}
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 388, y: 600}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000001000000000000
