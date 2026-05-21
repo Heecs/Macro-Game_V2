@@ -18,4 +18,13 @@ public class MenuButton : MonoBehaviour
     }
 
 
+    public void FlipMenu()
+    {
+        MenuCanvas.SetActive(false);
+        //Animation machen
+        //Rückseite anzeigen
+        Debug.Log("Flip Menu");
+    }
+
+
 }
