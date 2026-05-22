@@ -9,6 +9,7 @@ public class MenuButton : MonoBehaviour
     public Animator CardAnim;
     public GameObject MedallienGroup;
     public GameObject QuestText;
+    public GameObject RueckseiteButtons;
     void Start()
     {
         MenuCanvas.SetActive(false);
@@ -27,9 +28,17 @@ public class MenuButton : MonoBehaviour
         CardAnim.SetTrigger("Flip");
         MedallienGroup.SetActive(!MedallienGroup.activeSelf);
         QuestText.SetActive(!QuestText.activeSelf);
+        RueckseiteButtons.SetActive(!RueckseiteButtons.activeSelf);
         //Rückseite anzeigen
         Debug.Log("Flip Menu");
     }
 
+    public void FortfahrenButton()
+    {
+        MedallienGroup.SetActive(!MedallienGroup.activeSelf);
+        QuestText.SetActive(!QuestText.activeSelf);
+        RueckseiteButtons.SetActive(!RueckseiteButtons.activeSelf);
+        MenuCanvas.SetActive(!MenuCanvas.activeSelf);
+    }
 
 }
