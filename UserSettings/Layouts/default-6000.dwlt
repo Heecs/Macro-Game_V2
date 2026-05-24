@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Lighting
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 45
+  controlID: 103
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 46
+  controlID: 104
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 47
+  controlID: 154
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -2762,7 +2762,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Rooms
+    - Assets/Scenes/NewScenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2772,22 +2772,23 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/Rooms
+  - Assets/Scenes/NewScenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\luisf\OneDrive\Dokumente\GitHub\Macro-Game_V2
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 87}
+    scrollPos: {x: 0, y: 167}
     m_SelectedIDs:
-    - m_Data: 54298
+    - m_Data: 54908
     m_LastClickedID:
-      m_Data: 54298
+      m_Data: 54908
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53894
-    - m_Data: 54230
+    - m_Data: 53844
+    - m_Data: 53966
+    - m_Data: 53970
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -2823,7 +2824,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53894
+    - m_Data: 53844
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2852,9 +2853,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -15206
+    - m_Data: 54918
     m_LastClickedEntityId:
-      m_Data: -15206
+      m_Data: 54918
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -2981,14 +2982,11 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: -15206
+      - m_Data: 54918
       m_LastClickedID:
-        m_Data: 0
+        m_Data: 54918
       m_ExpandedIDs:
-      - m_Data: -12654
-      - m_Data: -3562
-      - m_Data: -3018
-      - m_Data: -2414
+      - m_Data: -2628
       - m_Data: -1372
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -3611,9 +3609,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 2150.7036, y: 4933.947, z: -5030.604}
+    m_Target: {x: 2161.8296, y: 4934.115, z: -5030.036}
     speed: 2
-    m_Value: {x: 2150.7036, y: 4933.947, z: -5030.604}
+    m_Value: {x: 2161.8296, y: 4934.115, z: -5030.036}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -3660,9 +3658,9 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: 0.0049193436, y: 0.96390307, z: -0.26553345, w: 0.017628081}
+    m_Target: {x: 0.0009822309, y: 0.95996714, z: -0.28000778, w: 0.0031539313}
     speed: 2
-    m_Value: {x: 0.004945901, y: 0.9635268, z: -0.26698542, w: 0.017621104}
+    m_Value: {x: 0.00056480226, y: 0.9595727, z: -0.2814553, w: 0.0017131733}
   m_Size:
     m_Target: 8.7061405
     speed: 2
