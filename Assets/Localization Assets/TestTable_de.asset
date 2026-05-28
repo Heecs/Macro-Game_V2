@@ -18,12 +18,54 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 28239298560
-    m_Localized: Hallo
+  - m_Id: 10127089134043136
+    m_Localized: "Hallo! Willkommen bei Macromedia. Ich trage dich gerne ein. Wie
+      hei\xDFt du denn?"
     m_Metadata:
       m_Items: []
-  - m_Id: 2152444115111936
-    m_Localized: Test
+  - m_Id: 10127593390047232
+    m_Localized: "Sch\xF6n dich kennenzulernen, (Name). Ich freue mich immer neue
+      Gesichter zu sehen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10127852719669248
+    m_Localized: Ich nehme an, du bist als Gast hier, um Macromedia zu erkunden.
+      Dann begleite ich dich geren bei deinen ersten Schritten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10128442426228736
+    m_Localized: "Um dich zu bewegen, benutze den linken Joy-Con und dr\xFCcke diese
+      Taste auf der rechten seite, um zu interagieren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10128930425110528
+    m_Localized: "Sobald du es verstanden hast, komm zu mir zu\xFCck, und ich sage
+      dir, was als N\xE4chstes zu tun ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10129345833172992
+    m_Localized: Toll gemacht, das liegt dir im Blut! Nun, ich glaub, du bist bereit,
+      weiterzugehen und Anke kennenzulernen. Sie ist in dem Raum zu deiner Linken.
+      Den Raum kannst du nicht verfehlen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10130063763800064
+    m_Localized: Guten Morgen! Du musst wohl (Name) sein. Willkommen an der Macromedia.
+      Ich bin Anke, freut mich, dich kennenzulernen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10130409567387648
+    m_Localized: "Ich will dich auch gar nicht lange aufhalten, aber du brauchst
+      eine Studentenkarte, um dich frei bewegen zu k\xF6nnen. Sie wird gerade noch
+      angefertigt, darum gebe ich dir f\xFCr heute diese Karte. Dort findest du einige
+      Informationen, die dir vielleicht helfen k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10131283027001344
+    m_Localized: "Lass dir aber auf keinen Fall die Party im 6. Stock entgehen! Es
+      dauert zwar noch ein bisschen, bis das Stockwerk wieder ge\xF6ffnet ist, aber
+      vielleicht kannst du bis dahib einige der Professoren kennen lernen und in
+      das Studentenleben eintauchen"
     m_Metadata:
       m_Items: []
   references:

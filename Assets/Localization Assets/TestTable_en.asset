@@ -18,12 +18,51 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 28239298560
-    m_Localized: Hello
+  - m_Id: 10130063763800064
+    m_Localized: Good Morning! You must be (name). Welcome to Macromedia. I'm Anke,
+      nice to meet you.
     m_Metadata:
       m_Items: []
-  - m_Id: 2152444115111936
-    m_Localized: test indeed
+  - m_Id: 10130409567387648
+    m_Localized: I dont want to keep you here too long, but you'll need a Student
+      ID card to get around freely. It's still being processed, so I'll give you
+      this card for today. It contains some information that might be helpful to
+      you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10127089134043136
+    m_Localized: Hello! Welcome to the Macromedia. I'd be happy to sign you in. Whats
+      your name?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10131283027001344
+    m_Localized: But dont miss the party on the 6th floor! It'll be a little while
+      before the floor reopens, but in the meantime, you might be able to get to
+      know some of the professors and get a taste of student life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10128930425110528
+    m_Localized: As soon as you understand it, come back to me and I'll tell you
+      what to do next.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10128442426228736
+    m_Localized: To move, use the Joy-Con to your left and press the button on the
+      right to interact.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10127593390047232
+    m_Localized: Great to meet you, (Name). I'm always happy to see a fresh face.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10127852719669248
+    m_Localized: I'm assuming you're here as a guest to explore Macromedia. Then
+      I'd be happy to accompany you through your first steps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10129345833172992
+    m_Localized: Great job, you're a natural! Now, I think it's time you meet Anke.
+      She's in the room to your left. You cant miss it!
     m_Metadata:
       m_Items: []
   references:
