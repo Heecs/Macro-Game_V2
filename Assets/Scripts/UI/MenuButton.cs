@@ -10,6 +10,8 @@ public class MenuButton : MonoBehaviour
     public GameObject MedallienGroup;
     public GameObject QuestText;
     public GameObject RueckseiteButtons;
+    public AudioSource audiosource;
+    public AudioClip flipSound;
     void Start()
     {
         MenuCanvas.SetActive(false);
@@ -31,6 +33,7 @@ public class MenuButton : MonoBehaviour
         RueckseiteButtons.SetActive(!RueckseiteButtons.activeSelf);
         //Rückseite anzeigen
         Debug.Log("Flip Menu");
+        audiosource.PlayOneShot(flipSound);
     }
 
     public void FortfahrenButton()
