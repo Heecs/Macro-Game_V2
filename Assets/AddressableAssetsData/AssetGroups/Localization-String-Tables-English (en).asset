@@ -16,11 +16,10 @@ MonoBehaviour:
   m_GUID: 5fdeca1561740b9479e019720a84cfca
   m_SerializeEntries:
   - m_GUID: a15fe018a55dbfe47b2759e99a8f6cbc
-    m_Address: TestTable_en
+    m_Address: DialogTable_en
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
-    - Preload
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 2d0ec3da076a21946aaf7299e911d512, type: 2}

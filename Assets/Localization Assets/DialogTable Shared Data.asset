@@ -10,45 +10,45 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: TestTable Shared Data
+  m_Name: DialogTable Shared Data
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
-  m_TableCollectionName: TestTable
+  m_TableCollectionName: DialogTable
   m_TableCollectionNameGuidString: 2c06acf260bc1ef42903020bada25958
   m_Entries:
   - m_Id: 10130063763800064
-    m_Key: EG_Anke.First?.0
+    m_Key: Dialog_EG_Anke.First?.0
     m_Metadata:
       m_Items: []
   - m_Id: 10130409567387648
-    m_Key: EG_Anke.Second.1
+    m_Key: Dialog_EG_Anke.Second.1
     m_Metadata:
       m_Items: []
   - m_Id: 10131283027001344
-    m_Key: EG_Anke.Third
+    m_Key: Dialog_EG_Anke.Third
     m_Metadata:
       m_Items: []
   - m_Id: 10128930425110528
-    m_Key: EG_Person.Fifth.3
+    m_Key: Dialog_EG_Person.Fifth.3
     m_Metadata:
       m_Items: []
   - m_Id: 10127089134043136
-    m_Key: EG_Person.First
+    m_Key: Dialog_EG_Person.First
     m_Metadata:
       m_Items: []
   - m_Id: 10128442426228736
-    m_Key: EG_Person.Fourth.2(Anleitungen)
+    m_Key: Dialog_EG_Person.Fourth.2(Anleitungen)
     m_Metadata:
       m_Items: []
   - m_Id: 10127593390047232
-    m_Key: EG_Person.Second.0
+    m_Key: Dialog_EG_Person.Second.0
     m_Metadata:
       m_Items: []
   - m_Id: 10129345833172992
-    m_Key: EG_Person.Sixth
+    m_Key: Dialog_EG_Person.Sixth
     m_Metadata:
       m_Items: []
   - m_Id: 10127852719669248
-    m_Key: EG_Person.Third.1
+    m_Key: Dialog_EG_Person.Third.1
     m_Metadata:
       m_Items: []
   m_Metadata:
