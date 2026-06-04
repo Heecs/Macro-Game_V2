@@ -2153,17 +2153,66 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6419492357887003388, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
       propertyPath: m_Name
-      value: Flur_Entrance_1
+      value: Aufzug
+      objectReference: {fileID: 0}
+    - target: {fileID: 6419492357887003388, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+      propertyPath: m_TagString
+      value: AufzugUIHandler
       objectReference: {fileID: 0}
     - target: {fileID: 8859157226268239932, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
       propertyPath: sceneToLoadIndex
       value: 5
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8859157226268239932, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6419492357887003388, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 1224757817}
+    - targetCorrespondingSourceObject: {fileID: 4971052092483015046, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1224757818}
   m_SourcePrefab: {fileID: 100100000, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+--- !u!1 &1224757815 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6419492357887003388, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+  m_PrefabInstance: {fileID: 1224757814}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1224757816 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4971052092483015046, guid: 49734e8fb570f4f4cba6e8d37d80c945, type: 3}
+  m_PrefabInstance: {fileID: 1224757814}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1224757817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224757815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19f59352988d525408a97903105ba244, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Elevator_UI_Handler
+  aufzugUI: {fileID: 0}
+--- !u!114 &1224757818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224757816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40228e0e81ee34ea511ee27c276065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Elevator
+  playerCO: {fileID: 0}
+  aufzugUI: {fileID: 0}
+  canTry: 0
 --- !u!1 &1309668000
 GameObject:
   m_ObjectHideFlags: 0

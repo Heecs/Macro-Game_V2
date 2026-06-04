@@ -5,8 +5,6 @@ using UnityEngine.InputSystem;
 public class Elevator_Button : MonoBehaviour
 {
 
-    private InputAction _transitionInput;
-
     public Card playerCard;
 
     public Collider playerCO;
@@ -16,14 +14,14 @@ public class Elevator_Button : MonoBehaviour
 
     public Scene_Loader sceneLoader;
 
-    public GameObject aufzugUI;
+    public Elevator_UI_Handler elevatorUIHandler;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        _transitionInput = InputSystem.actions.FindAction("Interact");
         playerCard = GameObject.FindWithTag("Player").GetComponent<Card>();
         sceneLoader = GameObject.FindWithTag("SceneLoader").GetComponent<Scene_Loader>();
         playerCO = GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>();
+        elevatorUIHandler = GameObject.FindWithTag("AufzugUIHandler").GetComponent<Elevator_UI_Handler>();
     }
 
     // Update is called once per frame
@@ -32,7 +30,7 @@ public class Elevator_Button : MonoBehaviour
     {
         if(playerCard.currentLevelIndex >= requiredPlayerCardIndex)
         {
-            PlayerPrefs.SetString("DoorName", transform.root.name);
+            PlayerPrefs.SetString("DoorName", "Aufzug");
             sceneLoader.sceneToLoad = sceneToLoadIndex;
             sceneLoader.StartTransition();
         }

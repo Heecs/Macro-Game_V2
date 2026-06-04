@@ -8,6 +8,7 @@ TagManager:
   - PlayerCharacter
   - DialogueManager
   - AufzugUI
+  - AufzugUIHandler
   layers:
   - Default
   - TransparentFX

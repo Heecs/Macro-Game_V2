@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity Projects\\Macro-Game_V2\\",
+  "WorkspaceRootPath": "C:\\Unity Projects\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\elevator_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevator_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\elevator_ui_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevator_ui_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity projects\\macro-game_v2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguenpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\unity projects\\macro-game_v2\\assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission_manager\\mission_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,115 +66,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mission_Manager.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Elevator_Button.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator_Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Elevator_Button.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator_Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Elevator_Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T16:00:30.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mission_List.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T16:00:28.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mission.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T15:43:29.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Door.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:14:01.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DialogueSet.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueSet.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogueSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:13:49.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DialogueManager.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:13:47.113Z",
+              "WhenOpened": "2026-05-20T21:14:43.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Card.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Elevator_UI_Handler.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator_UI_Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Elevator_UI_Handler.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator_UI_Handler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Elevator_UI_Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:13:45.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T21:10:31.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DialogueNPC.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Elevator.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Elevator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Elevator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T11:34:23.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T20:58:41.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mission_Manager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:00:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mission_List.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission_List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:00:28.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission_Manager\\Mission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:43:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:14:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueSet.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueSet.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:13:49.578Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:13:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:13:45.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogueNPC.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueNPC.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:34:23.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Interactable.cs",
-              "DocumentMoniker": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
-              "ToolTip": "D:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "C:\\Unity Projects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

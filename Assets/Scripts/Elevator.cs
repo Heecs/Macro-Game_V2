@@ -7,14 +7,7 @@ public class Elevator : MonoBehaviour
 
     private InputAction _transitionInput;
 
-    public Card playerCard;
-
     public Collider playerCO;
-
-    public int requiredPlayerCardIndex;
-    public int sceneToLoadIndex;
-
-    public Scene_Loader sceneLoader;
 
     public GameObject aufzugUI;
 
@@ -23,9 +16,8 @@ public class Elevator : MonoBehaviour
     void Start()
     {
         _transitionInput = InputSystem.actions.FindAction("Interact");
-        playerCard = GameObject.FindWithTag("Player").GetComponent<Card>();
-        sceneLoader = GameObject.FindWithTag("SceneLoader").GetComponent<Scene_Loader>();
         playerCO = GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>();
+        aufzugUI = GameObject.FindWithTag("AufzugUI");
     }
 
     // Update is called once per frame
@@ -34,16 +26,6 @@ public class Elevator : MonoBehaviour
         if (_transitionInput.WasPressedThisFrame() && canTry)
         {
             aufzugUI.SetActive(true);
-        }
-    }
-
-    public void InitiateTransition()
-    {
-        if(playerCard.currentLevelIndex >= requiredPlayerCardIndex)
-        {
-            PlayerPrefs.SetString("DoorName", transform.root.name);
-            sceneLoader.sceneToLoad = sceneToLoadIndex;
-            sceneLoader.StartTransition();
         }
     }
 
