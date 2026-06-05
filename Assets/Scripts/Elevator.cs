@@ -9,7 +9,7 @@ public class Elevator : MonoBehaviour
 
     public Collider playerCO;
 
-    public GameObject aufzugUI;
+    public Elevator_UI_Handler aufzugUIHandler;
 
     public bool canTry;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -17,7 +17,7 @@ public class Elevator : MonoBehaviour
     {
         _transitionInput = InputSystem.actions.FindAction("Interact");
         playerCO = GameObject.FindGameObjectWithTag("PlayerCharacter").GetComponent<Collider>();
-        aufzugUI = GameObject.FindWithTag("AufzugUI");
+        aufzugUIHandler = GameObject.FindWithTag("AufzugUIHandler").GetComponent<Elevator_UI_Handler>();
     }
 
     // Update is called once per frame
@@ -25,7 +25,7 @@ public class Elevator : MonoBehaviour
     {
         if (_transitionInput.WasPressedThisFrame() && canTry)
         {
-            aufzugUI.SetActive(true);
+            aufzugUIHandler.OpenAufzugUI();
         }
     }
 

@@ -22,7 +22,10 @@ public class Scene_Loader : MonoBehaviour
     {
         //Player is Placed at the door from where he enters the room
         player = GameObject.FindWithTag("PlayerCharacter").GetComponent<Rigidbody>();
-        player.transform.position = new Vector3(GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.x, player.transform.position.y, GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.z) + GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.forward * 2;
+        if(PlayerPrefs.GetString("DoorName") != null)
+        {
+            player.transform.position = new Vector3(GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.x, player.transform.position.y, GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.position.z) + GameObject.Find(PlayerPrefs.GetString("DoorName")).transform.forward * 2;
+        }
     }
     public void StartTransition()
     {

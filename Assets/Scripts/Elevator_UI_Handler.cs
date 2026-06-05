@@ -20,6 +20,10 @@ public class Elevator_UI_Handler : MonoBehaviour
     {
         aufzugUI.SetActive(false);
     }
+    public void OpenAufzugUI()
+    {
+        aufzugUI.SetActive(true);
+    }
 
     // Update is called once per frame
 
