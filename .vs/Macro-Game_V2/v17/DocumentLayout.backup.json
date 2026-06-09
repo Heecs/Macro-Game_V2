@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\gamedesign_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_invertedzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_invertedzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|c:\\users\\neran\\unityprojects\\macro-game_v2\\assets\\scripts\\gamedesign_killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_spikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\gamedesign_invertedzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedesign_invertedzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06C6E997-5593-7314-AD6D-D907812F53F4}|Assembly-CSharp.csproj|C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene_Loader.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\Scene_Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:07:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameDesign_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_Manager.cs",
+              "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameDesign_Manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T17:42:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameDesign_killzone.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_killzone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_killzone.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameDesign_invertedZone.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_invertedZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_invertedZone.cs",
@@ -71,43 +105,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameDesign_Finish.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Finish.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_Finish.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Finish.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameDesign_Finish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T11:29:13.128Z"
+              "WhenOpened": "2026-06-05T11:29:13.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameDesign_Spikes.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Spikes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_Spikes.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_Spikes.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameDesign_Spikes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T11:25:47.404Z"
+              "WhenOpened": "2026-06-05T11:25:47.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameDesign_characterController.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_characterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameDesign_characterController.cs",
               "ToolTip": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\GameDesign_characterController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameDesign_characterController.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAuwLsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwLoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T19:13:06.057Z"
+              "WhenOpened": "2026-06-03T19:13:06.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DialogueNPC.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\DialogueNPC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueNPC.cs",
@@ -119,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
@@ -131,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\Neran\\UnityProjects\\Macro-Game_V2\\Assets\\Scripts\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",

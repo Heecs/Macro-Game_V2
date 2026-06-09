@@ -7,9 +7,12 @@ public class GameDesign_Manager : MonoBehaviour
     private float gravityMod;
 
     public GameObject gameOverScreen;
+    public Scene_Loader sceneLoader;
+    public GameObject player;
     private void Awake()
     {
         Physics.gravity*=gravityMod;
+        player.SetActive(true);
     }
     public void GameOver()
     {
@@ -27,7 +30,10 @@ public class GameDesign_Manager : MonoBehaviour
 
     public void ExitGame()
     {
-
+        player.SetActive(false);
+        gameOverScreen.SetActive(false);
+        sceneLoader.StartTransition();
+        Time.timeScale = 1;
     }
 
     public void PauseGame()

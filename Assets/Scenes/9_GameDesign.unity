@@ -3276,6 +3276,10 @@ PrefabInstance:
       propertyPath: m_ControlPath
       value: <Keyboard>/space
       objectReference: {fileID: 0}
+    - target: {fileID: 5368984023694686427, guid: cd08321245bcd724d9f76b7c3e6ba702, type: 3}
+      propertyPath: sceneToLoad
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 9057423469764972306, guid: cd08321245bcd724d9f76b7c3e6ba702, type: 3}
       propertyPath: m_Name
       value: Scene_Loader
@@ -6477,6 +6481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   gravityMod: 1.1
   gameOverScreen: {fileID: 2118198330}
+  sceneLoader: {fileID: 1854589767}
+  player: {fileID: 546774399}
 --- !u!4 &1434379895
 Transform:
   m_ObjectHideFlags: 0
@@ -7698,6 +7704,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3602778297773040642, guid: 922e2bdb1b9f7594e9a4e9791f267065, type: 3}
   m_PrefabInstance: {fileID: 169593804}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1854589767 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5368984023694686427, guid: cd08321245bcd724d9f76b7c3e6ba702, type: 3}
+  m_PrefabInstance: {fileID: 784288711}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3295cdbee3abd8c42bc5622d4ed0fd19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Scene_Loader
 --- !u!1 &1857097484
 GameObject:
   m_ObjectHideFlags: 0
