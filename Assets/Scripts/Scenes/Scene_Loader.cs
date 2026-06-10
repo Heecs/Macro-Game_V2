@@ -29,6 +29,7 @@ public class Scene_Loader : MonoBehaviour
     }
     public void StartTransition()
     {
+        print("test");
             transitionAnimator.SetTrigger("Start_Transition");
     }
     public void LoadNextScene()
