@@ -6,6 +6,12 @@ using UnityEngine.UI;
 public class MenuButton : MonoBehaviour
 {
     public GameObject MenuCanvas;
+    public Animator CardAnim;
+    public GameObject MedallienGroup;
+    public GameObject QuestText;
+    public GameObject RueckseiteButtons;
+    public AudioSource audiosource;
+    public AudioClip flipSound;
     void Start()
     {
         MenuCanvas.SetActive(false);
@@ -17,5 +23,25 @@ public class MenuButton : MonoBehaviour
         MenuCanvas.SetActive(!MenuCanvas.activeSelf);
     }
 
+
+    public void FlipMenu()
+    {
+        
+        CardAnim.SetTrigger("Flip");
+        MedallienGroup.SetActive(!MedallienGroup.activeSelf);
+        QuestText.SetActive(!QuestText.activeSelf);
+        RueckseiteButtons.SetActive(!RueckseiteButtons.activeSelf);
+        //Rückseite anzeigen
+        Debug.Log("Flip Menu");
+        audiosource.PlayOneShot(flipSound);
+    }
+
+    public void FortfahrenButton()
+    {
+        MedallienGroup.SetActive(!MedallienGroup.activeSelf);
+        QuestText.SetActive(!QuestText.activeSelf);
+        RueckseiteButtons.SetActive(!RueckseiteButtons.activeSelf);
+        MenuCanvas.SetActive(!MenuCanvas.activeSelf);
+    }
 
 }
