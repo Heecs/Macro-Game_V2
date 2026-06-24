@@ -324,7 +324,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_LastSelectedObjectID:
-    m_Data: 52824
+    m_Data: 0
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -961,7 +961,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sounds & Music/UI_Sounds
+    - Assets/2D Assets/UI-Sprites
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -971,24 +971,23 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sounds & Music/UI_Sounds
+  - Assets/2D Assets/UI-Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\dertr\OneDrive\Dokumente\GitHub\Macro-Game_V2
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 155.6}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 64270
+    - m_Data: 55958
     m_LastClickedID:
-      m_Data: 64270
+      m_Data: 55958
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 55712
-    - m_Data: 55820
-    - m_Data: 55834
-    - m_Data: 64266
+    - m_Data: 55762
+    - m_Data: 55870
+    - m_Data: 55888
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1024,7 +1023,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 55712
+    - m_Data: 55762
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1060,6 +1059,7 @@ MonoBehaviour:
     m_ExpandedInstanceIDs:
     - m_Data: 53538
     - m_Data: 51854
+    - m_Data: 53058
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1188,15 +1188,11 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 52906
       m_ExpandedIDs:
-      - m_Data: -2464
-      - m_Data: -2458
       - m_Data: -1368
-      - m_Data: 52808
+      - m_Data: 52818
       - m_Data: 52824
-      - m_Data: 52868
       - m_Data: 52906
       - m_Data: 52932
-      - m_Data: 52976
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -2003,7 +1999,7 @@ MonoBehaviour:
       height: 864
     m_MinimalGUI: 1
   m_defaultScale: 0.51319444
-  m_LastWindowPixelSize: {x: 1077.5, y: 580.5}
+  m_LastWindowPixelSize: {x: 862, y: 464.4}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000001000000000000
